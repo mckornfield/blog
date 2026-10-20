@@ -1,0 +1,9 @@
+node_modules/
+_site/
+.venv/
+__pycache__/
+.pytest_cache/
+*.zip
+import/
+.superpowers/
+.DS_Store
