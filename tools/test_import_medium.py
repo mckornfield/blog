@@ -181,3 +181,75 @@ def test_unconverted_tags_produce_warnings():
     conv = to_markdown("<table><tr><td>x</td></tr></table><iframe src='y'></iframe>")
     assert "unconverted <table>" in conv.warnings
     assert "unconverted <iframe>" in conv.warnings
+
+
+from pathlib import Path
+
+from import_medium import hires, import_export, save_image
+
+JPEG = b"\xff\xd8\xff fake"
+
+
+def fake_fetch_factory(log=None, fail_hires=False, fail_all=False):
+    def fetch(url):
+        if log is not None:
+            log.append(url)
+        if fail_all or (fail_hires and "/max/1600/" in url):
+            raise OSError("boom")
+        return JPEG, "image/jpeg"
+    return fetch
+
+
+def test_hires_rewrites_width():
+    assert hires("https://cdn-images-1.medium.com/max/800/0*abc") == "https://cdn-images-1.medium.com/max/1600/0*abc"
+    assert hires("https://cdn-images-1.medium.com/other/x") == "https://cdn-images-1.medium.com/other/x"
+
+
+def test_save_image_adds_extension_from_content_type(tmp_path):
+    name = save_image("https://cdn-images-1.medium.com/max/800/0*GoQg8bKAYF5hwXgT", tmp_path / "d",
+                      fake_fetch_factory())
+    assert name == "0_GoQg8bKAYF5hwXgT.jpg"
+    assert (tmp_path / "d" / name).read_bytes() == JPEG
+
+
+def test_save_image_falls_back_to_original_url(tmp_path):
+    log = []
+    name = save_image("https://cdn-images-1.medium.com/max/800/0*abc", tmp_path,
+                      fake_fetch_factory(log, fail_hires=True))
+    assert name == "0_abc.jpg"
+    assert log == ["https://cdn-images-1.medium.com/max/1600/0*abc",
+                   "https://cdn-images-1.medium.com/max/800/0*abc"]
+
+
+def test_save_image_returns_none_when_everything_fails(tmp_path):
+    assert save_image("https://cdn-images-1.medium.com/max/800/0*abc", tmp_path,
+                      fake_fetch_factory(fail_all=True)) is None
+
+
+def build_export(tmp_path):
+    posts = tmp_path / "export" / "posts"
+    posts.mkdir(parents=True)
+    img = '<figure><img src="https://cdn-images-1.medium.com/max/800/0*abc"></figure>'
+    (posts / "2024-12-02_Hello-aaaaaaaaaaaa.html").write_text(make_article("Hello", f"<p>Hi</p>{img}"), encoding="utf-8")
+    (posts / "2024-12-03_Reply-bbbbbbbbbbbb.html").write_text(REPLY, encoding="utf-8")
+    (posts / "draft_Later-cccccccccccc.html").write_text(make_article("Later"), encoding="utf-8")
+    return tmp_path / "export", tmp_path / "repo"
+
+
+def test_import_export_writes_post_and_image_and_skips_replies_and_drafts(tmp_path):
+    export, repo = build_export(tmp_path)
+    report = import_export(export, repo, fake_fetch_factory())
+    assert (report.imported, report.replies, report.drafts) == (1, 1, 1)
+    post = repo / "src" / "posts" / "2024-12-02-hello.md"
+    text = post.read_text(encoding="utf-8")
+    assert text.startswith('---\ntitle: "Hello"\n')
+    assert "![](/img/hello/0_abc.jpg)" in text
+    assert "medium.com/max" not in text
+    assert (repo / "src" / "img" / "hello" / "0_abc.jpg").exists()
+    assert list((repo / "src" / "posts").glob("*.md")) == [post]
+
+
+def test_import_export_reports_failed_images(tmp_path):
+    export, repo = build_export(tmp_path)
+    report = import_export(export, repo, fake_fetch_factory(fail_all=True))
+    assert report.image_failures == [("hello", "https://cdn-images-1.medium.com/max/800/0*abc")]

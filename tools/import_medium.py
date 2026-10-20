@@ -5,8 +5,11 @@ Usage: python tools/import_medium.py <extracted-export-dir> <repo-dir>
 """
 import json
 import re
+import sys
 import unicodedata
+import urllib.request
 from dataclasses import dataclass, field
+from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString
 from markdownify import markdownify
@@ -163,3 +166,89 @@ def to_markdown(body_html: str) -> Converted:
 
 def image_urls(markdown: str) -> list:
     return list(dict.fromkeys(re.findall(r"!\[[^\]]*\]\(([^)\s]+)", markdown)))
+
+
+EXT = {"image/jpeg": ".jpg", "image/png": ".png", "image/gif": ".gif",
+       "image/webp": ".webp", "image/svg+xml": ".svg"}
+
+
+def _fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read(), r.headers.get_content_type()
+
+
+def hires(url: str) -> str:
+    return re.sub(r"/max/\d+/", "/max/1600/", url)
+
+
+def save_image(url, dest_dir, fetch=_fetch):
+    """Download url (trying a larger rendition first); return the saved filename or None."""
+    for candidate in dict.fromkeys([hires(url), url]):
+        try:
+            data, ctype = fetch(candidate)
+        except Exception:
+            continue
+        ext = EXT.get(ctype)
+        if not ext:
+            continue
+        name = re.sub(r"[^A-Za-z0-9._-]+", "_", candidate.rstrip("/").rsplit("/", 1)[-1]) + ext
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        (dest_dir / name).write_bytes(data)
+        return name
+    return None
+
+
+@dataclass
+class Report:
+    imported: int = 0
+    replies: int = 0
+    drafts: int = 0
+    image_failures: list = field(default_factory=list)
+    warnings: list = field(default_factory=list)
+    embeds: list = field(default_factory=list)
+
+
+def import_export(export_dir: Path, repo_dir: Path, fetch=_fetch) -> Report:
+    report, taken = Report(), set()
+    posts_dir = repo_dir / "src" / "posts"
+    posts_dir.mkdir(parents=True, exist_ok=True)
+    for path in sorted((export_dir / "posts").glob("*.html")):
+        if path.name.startswith("draft_"):
+            report.drafts += 1
+            continue
+        html = path.read_text(encoding="utf-8")
+        if not is_article(html):
+            report.replies += 1
+            continue
+        post = parse_post(html)
+        slug = make_slug(post.title, path.name, taken)
+        conv = to_markdown(post.body_html)
+        md = conv.markdown
+        for url in image_urls(md):
+            name = save_image(url, repo_dir / "src" / "img" / slug, fetch)
+            if name:
+                md = md.replace(url, f"/img/{slug}/{name}")
+            else:
+                report.image_failures.append((slug, url))
+        report.warnings += [(slug, w) for w in conv.warnings]
+        if conv.embeds:
+            report.embeds.append(slug)
+        (posts_dir / f"{post.date}-{slug}.md").write_text(front_matter(post) + "\n" + md, encoding="utf-8")
+        report.imported += 1
+    return report
+
+
+def main(argv):
+    export_dir, repo_dir = Path(argv[1]), Path(argv[2])
+    r = import_export(export_dir, repo_dir)
+    print(f"imported={r.imported} replies_skipped={r.replies} drafts_skipped={r.drafts}")
+    print(f"posts with link-card embeds converted to links: {len(r.embeds)}")
+    for slug, url in r.image_failures:
+        print(f"IMAGE FAILED  {slug}  {url}")
+    for slug, w in r.warnings:
+        print(f"WARNING       {slug}  {w}")
+
+
+if __name__ == "__main__":
+    main(sys.argv)
