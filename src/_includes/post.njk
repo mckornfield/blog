@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+<article data-pagefind-body>
+  <h1>{{ title }}</h1>
+  {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+  <p class="meta"><time datetime="{{ date | isoDate }}">{{ date | longDate }}</time></p>
+  <div class="body">{{ content | safe }}</div>
+  <p class="origin">Originally published on <a href="{{ medium_url }}">Medium</a>.</p>
+</article>

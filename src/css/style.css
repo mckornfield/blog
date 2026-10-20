@@ -1,0 +1,58 @@
+:root {
+  color-scheme: light dark;
+  --bg: #fdfdfc;
+  --text: #1e1e1e;
+  --muted: #6b6b6b;
+  --link: #1a5fb4;
+  --rule: #e2e2e0;
+  --code-bg: #f1f1ef;
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: #1a5fb4;
+  --pagefind-ui-text: #1e1e1e;
+  --pagefind-ui-background: #fdfdfc;
+  --pagefind-ui-border: #e2e2e0;
+  --pagefind-ui-tag: #f1f1ef;
+  --pagefind-ui-font: Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161616;
+    --text: #e6e6e3;
+    --muted: #9a9a96;
+    --link: #7cb2ff;
+    --rule: #2e2e2c;
+    --code-bg: #232321;
+    --pagefind-ui-primary: #7cb2ff;
+    --pagefind-ui-text: #e6e6e3;
+    --pagefind-ui-background: #161616;
+    --pagefind-ui-border: #2e2e2c;
+    --pagefind-ui-tag: #232321;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 1.125rem/1.7 Georgia, "Times New Roman", serif;
+}
+a { color: var(--link); }
+header.site, main { max-width: 44rem; margin: 0 auto; padding: 0 1rem; }
+header.site { padding-top: 1.25rem; padding-bottom: 1rem; border-bottom: 1px solid var(--rule); font-weight: bold; }
+header.site a { color: var(--text); text-decoration: none; }
+main { padding-top: 1.5rem; padding-bottom: 4rem; }
+h1 { line-height: 1.25; margin-bottom: 0.25rem; }
+.subtitle { color: var(--muted); font-size: 1.2rem; margin-top: 0; }
+.meta, .origin, .posts time { color: var(--muted); font-size: 0.9rem; }
+.origin { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+.body img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto 0.5rem; }
+.body blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid var(--rule); color: var(--muted); }
+.body pre { background: var(--code-bg); padding: 1rem; overflow-x: auto; font-size: 0.85rem; line-height: 1.5; }
+.body code { background: var(--code-bg); padding: 0.1em 0.3em; font-size: 0.9em; }
+.body pre code { background: none; padding: 0; }
+.body hr { border: 0; border-top: 1px solid var(--rule); margin: 2rem 0; }
+.year { margin-top: 2rem; border-bottom: 1px solid var(--rule); }
+.posts { list-style: none; padding: 0; }
+.posts li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.25rem 0; }
+.posts time { white-space: nowrap; flex-shrink: 0; }
+@media (max-width: 30rem) { .posts li { flex-direction: column; gap: 0; } }

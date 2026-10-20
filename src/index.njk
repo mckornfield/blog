@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: All posts
+---
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<div id="search"></div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({ element: "#search", showImages: false, showSubResults: true, resetStyles: false });
+  });
+</script>
+{% for group in collections.posts | groupByYear %}
+<h2 class="year">{{ group[0] }}</h2>
+<ul class="posts">
+  {% for post in group[1] %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a> <time datetime="{{ post.date | isoDate }}">{{ post.date | longDate }}</time></li>
+  {% endfor %}
+</ul>
+{% endfor %}

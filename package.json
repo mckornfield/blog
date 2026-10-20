@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy && pagefind --site _site",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.7",
+    "pagefind": "^1.5.2"
+  }
+}
