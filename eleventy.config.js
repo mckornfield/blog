@@ -5,6 +5,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPlugin(HtmlBasePlugin);
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/favicon.svg");
 
   eleventyConfig.addFilter("isoDate", (d) => d.toISOString().slice(0, 10));
   eleventyConfig.addFilter("longDate", (d) =>

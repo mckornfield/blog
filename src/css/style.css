@@ -65,3 +65,8 @@ h1 { line-height: 1.25; margin-bottom: 0.25rem; }
 #search .pagefind-ui__search-input { color: var(--text); background: var(--bg); }
 #search .pagefind-ui__search-input::placeholder { color: var(--muted); opacity: 1; }
 #search mark { background: #ffe066; color: #1e1e1e; }
+#search .pagefind-ui__search-clear {
+  background: none; border: 0; color: var(--muted); text-decoration: underline;
+  font: inherit; font-size: 0.85rem; padding: 0 0.75rem; height: auto; cursor: pointer;
+}
+#search .pagefind-ui__search-clear:hover { color: var(--text); }
