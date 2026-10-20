@@ -1,6 +1,5 @@
 ---
 title: "Managing Third Party Libraries is Too Painful"
-subtitle: "And weakly languages are the worst offenders"
 date: 2025-02-02
 medium_url: "https://medium.com/@mckornfield/managing-third-party-libraries-is-too-painful-5fe54f193b22"
 ---

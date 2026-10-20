@@ -1,6 +1,5 @@
 ---
 title: "What is Kubernetes?"
-subtitle: "Let’s start with the very basics. I mean super basic, like what is a computer, and what are the different ways it can run? That’s what…"
 date: 2022-09-05
 medium_url: "https://medium.com/@mckornfield/what-the-heck-is-this-kubernetes-thing-7d66f4aa0812"
 ---

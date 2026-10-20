@@ -1,6 +1,5 @@
 ---
 title: "Caching Python Installs in GitHub Actions"
-subtitle: "The journey of 1000 packages begins with a single pip install"
 date: 2023-01-27
 medium_url: "https://medium.com/@mckornfield/caching-python-installs-in-github-actions-8309e12a15e6"
 ---

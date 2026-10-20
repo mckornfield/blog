@@ -1,6 +1,5 @@
 ---
 title: "Good Software Engineers are Good at Looking Stuff Up"
-subtitle: "If you’re not using Google, you’re wasting people’s time."
 date: 2022-12-02
 medium_url: "https://medium.com/@mckornfield/good-software-engineers-are-good-at-looking-stuff-up-52a60b238d00"
 ---

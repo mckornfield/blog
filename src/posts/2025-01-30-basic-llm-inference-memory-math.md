@@ -1,6 +1,5 @@
 ---
 title: "Basic LLM Inference Memory Math"
-subtitle: "Explaining why these LLMs need so much VRAM"
 date: 2025-01-30
 medium_url: "https://medium.com/@mckornfield/basic-llm-inference-memory-math-e81a3dfac5e6"
 ---

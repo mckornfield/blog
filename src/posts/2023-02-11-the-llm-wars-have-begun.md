@@ -1,6 +1,5 @@
 ---
 title: "The LLM Wars Have Begun"
-subtitle: "Another tech giant showdown, this time over conversational AI"
 date: 2023-02-11
 medium_url: "https://medium.com/@mckornfield/the-llm-wars-have-begun-8cee8e00e311"
 ---

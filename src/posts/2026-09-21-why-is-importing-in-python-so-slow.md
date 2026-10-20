@@ -1,6 +1,6 @@
 ---
 title: "Why is Importing in Python So Slow?"
-subtitle: "tl;dr all that file I/O"
+subtitle: "tl;dr all that file I/O"
 date: 2026-09-21
 medium_url: "https://medium.com/@mckornfield/why-is-importing-in-python-so-slow-0a327a429483"
 ---

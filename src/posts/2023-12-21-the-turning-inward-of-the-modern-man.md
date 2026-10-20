@@ -1,6 +1,5 @@
 ---
 title: "The Turning Inward of the Modern Man"
-subtitle: "How virtual worlds have swallowed us"
 date: 2023-12-21
 medium_url: "https://medium.com/@mckornfield/the-turning-inward-of-the-modern-man-85839377507c"
 ---

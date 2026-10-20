@@ -1,6 +1,5 @@
 ---
 title: "Beware Resizing PVCs With Helm"
-subtitle: "I thought cloud technologies were supposed to make disk resizing easy?!"
 date: 2022-10-28
 medium_url: "https://medium.com/@mckornfield/beware-resizing-pvcs-with-helm-fcdb1f20d52b"
 ---

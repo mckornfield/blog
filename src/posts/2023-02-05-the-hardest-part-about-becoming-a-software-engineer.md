@@ -1,6 +1,5 @@
 ---
 title: "The Hardest Part About Becoming a Software Engineer"
-subtitle: "Or really the hardest part about becoming anything"
 date: 2023-02-05
 medium_url: "https://medium.com/@mckornfield/the-hardest-part-about-becoming-a-software-engineer-3d0054adb9ac"
 ---

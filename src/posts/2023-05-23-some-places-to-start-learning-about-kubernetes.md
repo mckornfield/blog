@@ -1,6 +1,5 @@
 ---
 title: "Some Places to Start Learning About Kubernetes"
-subtitle: "Funnily enough, everywhere but in a book"
 date: 2023-05-23
 medium_url: "https://medium.com/@mckornfield/some-places-to-start-learning-about-kubernetes-83ee350e9e01"
 ---

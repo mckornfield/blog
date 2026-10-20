@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 6"
-subtitle: "Fire at our Backs"
 date: 2022-09-22
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-6-62b6a7331177"
 ---

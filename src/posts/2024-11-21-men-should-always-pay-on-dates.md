@@ -1,6 +1,5 @@
 ---
 title: "Men Should Always Pay on Dates"
-subtitle: "Maybe obvious advice? Maybe not?"
 date: 2024-11-21
 medium_url: "https://medium.com/@mckornfield/men-should-always-pay-on-dates-b90dfe0e528e"
 ---

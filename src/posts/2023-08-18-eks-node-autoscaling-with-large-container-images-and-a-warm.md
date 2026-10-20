@@ -1,6 +1,6 @@
 ---
 title: "EKS Node Autoscaling With Large Container Images and a Warm Pool, a Tragedy in Three Parts"
-subtitle: "Our journey through improving autoscaling in GPU workloads"
+subtitle: "Our journey through improving autoscaling"
 date: 2023-08-18
 medium_url: "https://medium.com/@mckornfield/eks-node-autoscaling-with-large-container-images-and-a-warm-pool-a-tragedy-in-three-parts-ed3400995ce0"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "The -Sets of Kubernetes"
-subtitle: "How you specify how Pods run (That aren’t Jobs)"
 date: 2023-03-21
 medium_url: "https://medium.com/@mckornfield/the-sets-of-kubernetes-de5bd7382cb5"
 ---

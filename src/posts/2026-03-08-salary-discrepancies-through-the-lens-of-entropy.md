@@ -1,6 +1,6 @@
 ---
 title: "Salary Discrepancies through the Lens of Entropy"
-subtitle: "Here I try to apply a physics concept to economics. What could possibly go wrong?"
+subtitle: "Here I try to apply a physics concept to economics. What could possibly go wrong?"
 date: 2026-03-08
 medium_url: "https://medium.com/@mckornfield/salary-discrepancies-through-the-lens-of-entropy-3d04a84bcd54"
 ---

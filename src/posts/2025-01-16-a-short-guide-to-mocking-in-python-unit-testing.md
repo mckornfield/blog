@@ -1,6 +1,5 @@
 ---
 title: "A Short Guide to Mocking in Python Unit Testing"
-subtitle: "Patching and mocking and asserting, oh my"
 date: 2025-01-16
 medium_url: "https://medium.com/@mckornfield/a-short-guide-to-mocking-in-python-unit-testing-a07875c2a773"
 ---

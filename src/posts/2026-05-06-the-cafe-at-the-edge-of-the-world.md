@@ -1,6 +1,6 @@
 ---
 title: "The Cafe at the Edge of the World"
-subtitle: "And my reflections on it"
+subtitle: "And my reflections on it"
 date: 2026-05-06
 medium_url: "https://medium.com/@mckornfield/the-cafe-at-the-edge-of-the-world-227d2cfff68e"
 ---

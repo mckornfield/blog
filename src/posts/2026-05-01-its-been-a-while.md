@@ -1,6 +1,6 @@
 ---
 title: "It’s Been a While"
-subtitle: "Back to DC, and what do I see"
+subtitle: "Back to DC, and what do I see"
 date: 2026-05-01
 medium_url: "https://medium.com/@mckornfield/its-been-a-while-f5f76ab2a068"
 ---

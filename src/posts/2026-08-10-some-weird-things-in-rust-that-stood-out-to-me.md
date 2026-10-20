@@ -1,6 +1,6 @@
 ---
 title: "Some Weird Things in Rust That Stood Out to Me"
-subtitle: "As a total rust noob"
+subtitle: "As a total rust noob"
 date: 2026-08-10
 medium_url: "https://medium.com/@mckornfield/some-weird-things-in-rust-that-stood-out-to-me-5cd7eb5a4606"
 ---

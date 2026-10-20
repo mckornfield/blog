@@ -1,6 +1,5 @@
 ---
 title: "The Next Generation of CAPTCHA: LLM Detectors"
-subtitle: "The democratization of LLM force means we need new defenses"
 date: 2024-12-14
 medium_url: "https://medium.com/@mckornfield/the-next-generation-of-captcha-llm-detectors-edb9621d26ff"
 ---

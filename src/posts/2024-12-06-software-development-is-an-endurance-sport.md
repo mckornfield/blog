@@ -1,6 +1,5 @@
 ---
 title: "Software Development is an Endurance Sport"
-subtitle: "Good software is well worn"
 date: 2024-12-06
 medium_url: "https://medium.com/@mckornfield/software-development-is-an-endurance-sport-2e07c983aa59"
 ---

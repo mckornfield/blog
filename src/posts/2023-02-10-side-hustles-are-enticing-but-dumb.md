@@ -1,6 +1,5 @@
 ---
 title: "Side Hustles are Enticing, But Dumb"
-subtitle: "One good primary hustle beats a dozen crummy side hustles"
 date: 2023-02-10
 medium_url: "https://medium.com/@mckornfield/side-hustles-are-enticing-but-dumb-16a257bfda86"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Keep it Structured Stupid! (KISS)"
-subtitle: "Save yourself from squinting at log output later on"
+subtitle: "Save yourself from squinting at log output later on"
 date: 2023-09-25
 medium_url: "https://medium.com/@mckornfield/keep-it-structured-stupid-kiss-5fec73f9497e"
 ---

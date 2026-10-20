@@ -1,6 +1,6 @@
 ---
 title: "What is SSL/TLS? And Why Should I Care?"
-subtitle: "Ever wonder what it means for something to be https?"
+subtitle: "Ever wonder what it means for something to be http s?"
 date: 2023-02-22
 medium_url: "https://medium.com/@mckornfield/ssl-tls-for-laypeople-45f91736f31f"
 ---

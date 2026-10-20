@@ -1,6 +1,5 @@
 ---
 title: "Mothers, Daughters, Sisters, or Meat"
-subtitle: "All views of women are not equal"
 date: 2024-12-21
 medium_url: "https://medium.com/@mckornfield/mothers-daughters-sisters-or-meat-2c199c602642"
 ---

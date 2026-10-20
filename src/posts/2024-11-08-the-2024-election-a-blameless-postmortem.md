@@ -1,6 +1,5 @@
 ---
 title: "The 2024 Election: A Blameless Postmortem"
-subtitle: "Applying an SRE mindset to how the dems struck out"
 date: 2024-11-08
 medium_url: "https://medium.com/@mckornfield/the-2024-election-a-blameless-postmortem-67712e468b40"
 ---

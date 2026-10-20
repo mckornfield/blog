@@ -1,6 +1,5 @@
 ---
 title: "Why Choose Kubernetes Over Serverless?"
-subtitle: "Managing infrastructure stinks, doesn’t it?"
 date: 2023-02-01
 medium_url: "https://medium.com/@mckornfield/why-choose-kubernetes-over-serverless-2aabd3ed56f4"
 ---

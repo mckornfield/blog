@@ -1,6 +1,5 @@
 ---
 title: "Debugging Kubernetes Pods"
-subtitle: "I have spent a lot of time with botched Kubernetes deployments, and I thought it might be worth sharing some of the things I’ve come…"
 date: 2022-09-19
 medium_url: "https://medium.com/@mckornfield/debugging-kubernetes-pods-7bc2aba66628"
 ---

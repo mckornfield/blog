@@ -1,6 +1,5 @@
 ---
 title: "Arm All Women"
-subtitle: "Give a whole new meaning to women’s choice"
 date: 2024-11-15
 medium_url: "https://medium.com/@mckornfield/arm-all-women-a30a9e9f7309"
 ---

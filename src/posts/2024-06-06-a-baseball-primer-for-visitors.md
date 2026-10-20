@@ -1,6 +1,5 @@
 ---
 title: "A Baseball Primer for Visitors"
-subtitle: "The Great American Pastime, Explained"
 date: 2024-06-06
 medium_url: "https://medium.com/@mckornfield/a-baseball-primer-for-visitors-36314c3720d4"
 ---

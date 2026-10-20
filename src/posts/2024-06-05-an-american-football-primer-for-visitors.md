@@ -1,6 +1,5 @@
 ---
 title: "An American Football Primer for Visitors"
-subtitle: "Football doesn’t mean the one you play with your foot?"
 date: 2024-06-05
 medium_url: "https://medium.com/@mckornfield/a-usa-sports-primer-for-visitors-48182b7809b7"
 ---

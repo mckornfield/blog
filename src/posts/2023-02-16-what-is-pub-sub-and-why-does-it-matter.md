@@ -1,6 +1,5 @@
 ---
 title: "What is Pub/Sub and Why Does It Matter?"
-subtitle: "Asynchronous and decoupled systems are more resilient and scalable"
 date: 2023-02-16
 medium_url: "https://medium.com/@mckornfield/what-is-pub-sub-and-why-does-it-matter-16b3c0f88c29"
 ---

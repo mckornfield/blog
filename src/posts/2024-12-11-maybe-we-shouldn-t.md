@@ -1,6 +1,5 @@
 ---
 title: "Maybe We Shouldn't"
-subtitle: "A poem about the USA's healthcare system"
 date: 2024-12-11
 medium_url: "https://medium.com/@mckornfield/maybe-we-shouldnt-aa8b3db840fe"
 ---

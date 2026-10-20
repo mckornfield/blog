@@ -1,6 +1,5 @@
 ---
 title: "Jungle Gym Takeaways"
-subtitle: "Why going around can beat going up"
 date: 2024-12-02
 medium_url: "https://medium.com/@mckornfield/jungle-gym-takeaways-77271e8a5d26"
 ---

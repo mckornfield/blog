@@ -1,6 +1,5 @@
 ---
 title: "Want to Build Something with Your Kid? Try Roblox Studios!"
-subtitle: "Pretty darn simple game programming, if you ask me."
 date: 2023-01-09
 medium_url: "https://medium.com/@mckornfield/want-to-build-something-with-your-kid-try-roblox-studios-9c3dc0be4223"
 ---

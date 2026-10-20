@@ -1,6 +1,5 @@
 ---
 title: "Correlating Logrus Logs and Trace IDs in Datadog"
-subtitle: "Because their docs are just so lame right now"
 date: 2023-05-03
 medium_url: "https://medium.com/@mckornfield/correlating-logrus-logs-and-trace-ids-in-datadog-a31c4bac92c"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "A Cheap and Effective Workout to Get You Through Winter"
-subtitle: "Just a mat, some light dumbbells, and Jillian!"
 date: 2022-12-01
 medium_url: "https://medium.com/@mckornfield/the-cheapest-effective-workout-to-get-you-through-winter-a9814d296445"
 ---

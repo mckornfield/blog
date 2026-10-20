@@ -1,6 +1,5 @@
 ---
 title: "Just Get to Work"
-subtitle: "A letter to any men who aren’t working or doing their fair share"
 date: 2026-09-17
 medium_url: "https://medium.com/@mckornfield/just-get-to-work-aee474579745"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "My First Year at a Startup"
-subtitle: "Looking back and reflecting"
 date: 2023-11-09
 medium_url: "https://medium.com/@mckornfield/my-first-year-at-a-startup-0b112bf66890"
 ---

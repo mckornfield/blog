@@ -1,6 +1,5 @@
 ---
 title: "Re-Experiencing Small Wonders"
-subtitle: "The best benefit of having a kid"
 date: 2024-01-24
 medium_url: "https://medium.com/@mckornfield/re-experiencing-small-wonders-e6f3a8a240e6"
 ---

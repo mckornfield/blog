@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 1"
-subtitle: "Hello! I have been trying to write a story (or set of stories) for a long time now but haven’t gotten a way to fully commit myself. So I…"
 date: 2022-08-11
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-1-c76dcf067c13"
 ---

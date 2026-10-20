@@ -1,6 +1,5 @@
 ---
 title: "Guardian AI.ngel"
-subtitle: "A look at what might lie ahead for behavior change"
 date: 2023-01-20
 medium_url: "https://medium.com/@mckornfield/guardian-ai-ngel-5495b772b064"
 ---

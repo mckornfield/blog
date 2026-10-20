@@ -1,6 +1,5 @@
 ---
 title: "Finding All the Golang Licenses"
-subtitle: "Every package has a license, make sure you know what you’re using"
 date: 2023-04-12
 medium_url: "https://medium.com/@mckornfield/finding-all-the-golang-licenses-82ad5e2275c"
 ---

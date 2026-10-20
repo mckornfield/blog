@@ -1,6 +1,5 @@
 ---
 title: "Shoot Lasers at Your Scalp and Regrow Hair"
-subtitle: "Crazy enough to work!"
 date: 2022-10-20
 medium_url: "https://medium.com/@mckornfield/shoot-lasers-at-your-scalp-and-regrow-hair-8ebd3c0ee17"
 ---

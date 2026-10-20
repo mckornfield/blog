@@ -1,6 +1,5 @@
 ---
 title: "Make Yourself"
-subtitle: "“If I hadn’t made me, I would’ve been made somehow”"
 date: 2025-10-04
 medium_url: "https://medium.com/@mckornfield/make-yourself-9e54dd831d80"
 ---

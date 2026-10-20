@@ -1,6 +1,5 @@
 ---
 title: "Getting started with the Kubernetes Python Client"
-subtitle: "Why use kubectl when you can use Python?!"
 date: 2022-11-29
 medium_url: "https://medium.com/@mckornfield/getting-started-with-the-kubernetes-python-client-ac48199537a9"
 ---

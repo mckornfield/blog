@@ -1,6 +1,5 @@
 ---
 title: "What Karl Marx Got Wrong"
-subtitle: "And why capitalism/money aren’t the root of all evil"
 date: 2024-01-23
 medium_url: "https://medium.com/@mckornfield/what-karl-marx-got-wrong-dea014b54429"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Pain is a Teacher"
-subtitle: "And a deaf one at that"
 date: 2023-05-29
 medium_url: "https://medium.com/@mckornfield/pain-is-a-teacher-d04aa9fafc41"
 ---

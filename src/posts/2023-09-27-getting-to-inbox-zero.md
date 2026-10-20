@@ -1,6 +1,5 @@
 ---
 title: "Getting to Inbox Zero"
-subtitle: "Some tricks to help reduce your email noise"
 date: 2023-09-27
 medium_url: "https://medium.com/@mckornfield/getting-to-inbox-zero-f18a32c59cbb"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Explain like I’m 5: Recursion"
-subtitle: "Did you ever wonder why the site is called StackOverflow?"
 date: 2022-10-17
 medium_url: "https://medium.com/@mckornfield/explain-like-im-5-recursion-df66084e69e8"
 ---

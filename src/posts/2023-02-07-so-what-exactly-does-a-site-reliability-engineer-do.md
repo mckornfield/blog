@@ -1,6 +1,5 @@
 ---
 title: "So What Exactly Does a Site Reliability Engineer Do?"
-subtitle: "Do you just type terminal commands all day? Look at graphs?"
 date: 2023-02-07
 medium_url: "https://medium.com/@mckornfield/so-what-exactly-does-a-site-reliability-engineer-do-6da1a25d8bb5"
 ---

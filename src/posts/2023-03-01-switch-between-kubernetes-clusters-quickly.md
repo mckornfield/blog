@@ -1,6 +1,5 @@
 ---
 title: "Switch Between Kubernetes Clusters Quickly"
-subtitle: "If you have more than one cluster to deal with, this can save you some time"
 date: 2023-03-01
 medium_url: "https://medium.com/@mckornfield/switch-between-kubernetes-clusters-quickly-bf6dc004142d"
 ---

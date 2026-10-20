@@ -1,6 +1,6 @@
 ---
 title: "Why I’m Thankful for Donald Trump"
-subtitle: "No, I’m not MAGA, just hear me out"
+subtitle: "No, I’m not MAGA, just hear me out"
 date: 2026-04-24
 medium_url: "https://medium.com/@mckornfield/why-im-thankful-for-donald-trump-efb96ed32950"
 ---

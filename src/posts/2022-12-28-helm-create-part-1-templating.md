@@ -1,6 +1,5 @@
 ---
 title: "Helm Create Part 1: Templating"
-subtitle: "A guide to the output of running helm create with a focus on the metadata and templating."
 date: 2022-12-28
 medium_url: "https://medium.com/@mckornfield/helm-create-part-1-templating-9c4d9baa2e4e"
 ---

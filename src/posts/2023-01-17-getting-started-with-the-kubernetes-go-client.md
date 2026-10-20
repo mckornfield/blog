@@ -1,6 +1,5 @@
 ---
 title: "Getting Started with the Kubernetes Go Client"
-subtitle: "I mean… Kubernetes is written in Go right? So this is what you should use?"
 date: 2023-01-17
 medium_url: "https://medium.com/@mckornfield/getting-started-with-the-kubernetes-go-client-7087e45da491"
 ---

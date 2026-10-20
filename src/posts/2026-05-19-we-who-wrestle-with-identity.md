@@ -1,6 +1,6 @@
 ---
 title: "We who wrestle with identity"
-subtitle: "Both existential and gender"
+subtitle: "Both existential and gender"
 date: 2026-05-19
 medium_url: "https://medium.com/@mckornfield/we-who-wrestle-with-identity-1aa6243342a5"
 ---

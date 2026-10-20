@@ -1,6 +1,5 @@
 ---
 title: "What You Need to Know When Visiting New York City"
-subtitle: "A guide to the “Big Apple” for those not used to big cities"
 date: 2023-02-25
 medium_url: "https://medium.com/@mckornfield/what-you-need-to-know-when-visiting-new-york-city-315d270bbbc1"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Working with HPAs in Kubernetes"
-subtitle: "How to make your Kubernetes workloads scale with a few simple steps"
 date: 2023-02-08
 medium_url: "https://medium.com/@mckornfield/working-with-hpas-in-kubernetes-ced39263b596"
 ---

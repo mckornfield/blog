@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Table of Contents"
-subtitle: "Here’s a set of links to the various chapters, in case folks want to"
 date: 2022-09-04
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-table-of-contents-7493d100bfb3"
 ---

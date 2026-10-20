@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 4"
-subtitle: "Chapter 4: Links in the chain"
 date: 2022-09-04
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-4-bca1a48d90c7"
 ---

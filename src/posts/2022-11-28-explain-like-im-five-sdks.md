@@ -1,6 +1,5 @@
 ---
 title: "Explain Like I’m Five: SDKs"
-subtitle: "What is an SDK (Software Development Kit?)"
 date: 2022-11-28
 medium_url: "https://medium.com/@mckornfield/explain-like-im-five-sdks-d44c7f5526eb"
 ---

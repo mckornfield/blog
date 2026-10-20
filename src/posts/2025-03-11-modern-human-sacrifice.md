@@ -1,6 +1,5 @@
 ---
 title: "Modern Human Sacrifice"
-subtitle: "And how it is no nobler than the sacrifice of the past"
 date: 2025-03-11
 medium_url: "https://medium.com/@mckornfield/modern-human-sacrifice-5b5f679a2135"
 ---

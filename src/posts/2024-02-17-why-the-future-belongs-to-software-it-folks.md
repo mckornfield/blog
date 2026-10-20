@@ -1,6 +1,5 @@
 ---
 title: "Why the Future Belongs to Software/IT Folks"
-subtitle: "But Low Code and No Code? And AI Coding? Nah I don’t think so."
 date: 2024-02-17
 medium_url: "https://medium.com/@mckornfield/why-the-future-belongs-to-software-it-folks-9f8d82d65c9f"
 ---

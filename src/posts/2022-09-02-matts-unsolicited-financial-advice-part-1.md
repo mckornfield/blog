@@ -1,6 +1,5 @@
 ---
 title: "Matt’s Unsolicited Financial Advice, Part 1"
-subtitle: "A handful of people have asked me for various sorts of financial advice so I wanted to try and break down what I’ve learned and what might…"
 date: 2022-09-02
 medium_url: "https://medium.com/@mckornfield/matts-unsolicited-financial-advice-7d6709199fa1"
 ---

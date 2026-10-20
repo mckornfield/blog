@@ -1,6 +1,5 @@
 ---
 title: "Observability, Runbooks, and Postmortems (oh my!)"
-subtitle: "Bad things are going to happen, might as well be prepared"
 date: 2023-01-26
 medium_url: "https://medium.com/@mckornfield/dealing-with-failure-observability-runbooks-and-postmortems-80ff3544365c"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "A Few Ways to Become a Software Developer"
-subtitle: "All roads lead to midnight debugging 😴💻"
 date: 2022-12-06
 medium_url: "https://medium.com/@mckornfield/a-few-ways-to-become-a-software-developer-b0677f140caf"
 ---

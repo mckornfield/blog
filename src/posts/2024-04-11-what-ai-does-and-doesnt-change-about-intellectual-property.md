@@ -1,6 +1,5 @@
 ---
 title: "What AI Does (and Doesn’t) Change About Intellectual Property"
-subtitle: "Some Thoughts on the IP Landscape in the midst of increasingly potent AI capabilities"
 date: 2024-04-11
 medium_url: "https://medium.com/@mckornfield/what-ai-does-and-doesnt-change-about-intellectual-property-a6225c6f4854"
 ---

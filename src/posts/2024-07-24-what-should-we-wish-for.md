@@ -1,6 +1,5 @@
 ---
 title: "What Should We Wish For?"
-subtitle: "What can we control vs. what we can’t"
 date: 2024-07-24
 medium_url: "https://medium.com/@mckornfield/what-should-we-wish-for-47c7716bb14f"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A Letter to My Little"
-subtitle: "And to any young man out there who’s reading"
+subtitle: "And to any young man out there who’s reading"
 date: 2026-09-07
 medium_url: "https://medium.com/@mckornfield/a-letter-to-my-little-6c5b89a43c43"
 ---

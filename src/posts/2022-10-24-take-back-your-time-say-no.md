@@ -1,6 +1,5 @@
 ---
 title: "Take Back Your Time, Say “No”"
-subtitle: "Do fewer things, especially things that people ask you."
 date: 2022-10-24
 medium_url: "https://medium.com/@mckornfield/take-back-your-time-say-no-bc0406a47785"
 ---

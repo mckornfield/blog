@@ -1,6 +1,5 @@
 ---
 title: "“Victims of Our Own Success”"
-subtitle: "Why large software companies ossify, and why smaller ones are nimbler"
 date: 2023-05-12
 medium_url: "https://medium.com/@mckornfield/victims-of-our-own-success-dd3729dd599f"
 ---

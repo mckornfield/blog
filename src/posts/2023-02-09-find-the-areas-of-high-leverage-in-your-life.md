@@ -1,6 +1,5 @@
 ---
 title: "Find the Areas of High Leverage in Your Life"
-subtitle: "Spending Time on Low Leverage Tasks is a Waste of Time"
 date: 2023-02-09
 medium_url: "https://medium.com/@mckornfield/find-the-areas-of-high-leverage-in-your-life-67e6655768a7"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Kids are the Glue of Relationships"
-subtitle: "And we’ve been treating them like a"
 date: 2024-12-04
 medium_url: "https://medium.com/@mckornfield/kids-are-the-glue-of-relationships-4d08c25c3114"
 ---

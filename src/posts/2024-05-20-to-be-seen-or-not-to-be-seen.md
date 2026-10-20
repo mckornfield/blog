@@ -1,6 +1,5 @@
 ---
 title: "To Be Seen or Not To Be Seen"
-subtitle: "That is the question"
 date: 2024-05-20
 medium_url: "https://medium.com/@mckornfield/to-be-seen-or-not-to-be-seen-e2c6df2bafd4"
 ---

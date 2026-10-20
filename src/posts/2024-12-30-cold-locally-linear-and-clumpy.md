@@ -1,6 +1,5 @@
 ---
 title: "Cold, Locally Linear, and Clumpy"
-subtitle: "A refutation of the title of a popular book"
 date: 2024-12-30
 medium_url: "https://medium.com/@mckornfield/cold-locally-linear-and-clumpy-18fb66a94a93"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Hosting a Static Site with Cloudfront"
-subtitle: "A simple tutorial with some pictures"
 date: 2023-03-07
 medium_url: "https://medium.com/@mckornfield/hosting-a-static-site-with-cloudfront-55fcc57341dd"
 ---

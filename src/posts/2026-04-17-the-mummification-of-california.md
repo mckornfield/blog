@@ -1,6 +1,6 @@
 ---
 title: "The Mummification of California"
-subtitle: "Nothing beside remains"
+subtitle: "Nothing beside remains"
 date: 2026-04-17
 medium_url: "https://medium.com/@mckornfield/the-mummification-of-california-4df5bf47b561"
 ---

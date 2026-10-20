@@ -1,6 +1,5 @@
 ---
 title: "Why I Gave Up Being Vegetarian (Again)"
-subtitle: "And probably won’t pick it up ever again"
 date: 2023-02-21
 medium_url: "https://medium.com/@mckornfield/why-i-gave-up-being-vegetarian-again-68632c7f4a65"
 ---

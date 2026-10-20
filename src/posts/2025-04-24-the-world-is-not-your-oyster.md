@@ -1,6 +1,5 @@
 ---
 title: "The World is Not Your Oyster"
-subtitle: "A realistic view of being human"
 date: 2025-04-24
 medium_url: "https://medium.com/@mckornfield/the-world-is-not-your-oyster-6c93fe0b4f4e"
 ---

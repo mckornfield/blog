@@ -1,6 +1,5 @@
 ---
 title: "A Woman is the Best Job A Man Will Ever Get"
-subtitle: "And the hardest one to get right"
 date: 2025-04-19
 medium_url: "https://medium.com/@mckornfield/a-woman-is-the-best-job-a-man-will-ever-get-90fd02044b52"
 ---

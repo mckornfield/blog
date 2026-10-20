@@ -1,6 +1,5 @@
 ---
 title: "Does GitHub Copilot Mean We Can Stop Doing Live Coding Interviews?"
-subtitle: "Or that we need them more than ever?"
 date: 2024-06-26
 medium_url: "https://medium.com/@mckornfield/does-github-copilot-mean-we-can-stop-doing-live-coding-interviews-aca3424352be"
 ---

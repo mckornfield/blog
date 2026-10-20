@@ -1,6 +1,5 @@
 ---
 title: "Explain like I’m 5: Epigenetics"
-subtitle: "Does what you do while you’re alive influence your offspring? Depends…"
 date: 2023-01-23
 medium_url: "https://medium.com/@mckornfield/explain-like-im-5-epigenetics-806c55dad8d9"
 ---

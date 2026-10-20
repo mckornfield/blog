@@ -1,6 +1,6 @@
 ---
 title: "Love is Doing the S — t You Don’t Want to"
-subtitle: "Maybe you already knew that…"
+subtitle: "Maybe you already knew that…"
 date: 2026-04-16
 medium_url: "https://medium.com/@mckornfield/love-is-doing-the-s-t-you-dont-want-to-5193034a1cd6"
 ---

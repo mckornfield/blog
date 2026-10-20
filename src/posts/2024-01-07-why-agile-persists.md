@@ -1,6 +1,5 @@
 ---
 title: "Why Agile Persists"
-subtitle: "And who it’s actually for"
 date: 2024-01-07
 medium_url: "https://medium.com/@mckornfield/why-agile-persists-d6884b3601e0"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "ClusterRoles and ClusterRoleBindings"
-subtitle: "The Jobs and Job Assignments of a Kubernetes Cluster"
 date: 2023-06-07
 medium_url: "https://medium.com/@mckornfield/clusterroles-and-clusterrolebindings-f855faf25ea3"
 ---
@@ -100,6 +99,6 @@ kubectl run test-perm -it --rm --image bitnami/kubectl:1.27.2  \
   --overrides '{"spec":{"serviceAccountName":"node-updater"}}' -- bash
 ```
 
-This will launch a pod running as that service account, so calls to `kubectl get nodes` and `kubectl taint nodes &lt;node_name> roll=true:NoSchedule` should succeed, based on our verbs list including `update` .
+This will launch a pod running as that service account, so calls to `kubectl get nodes` and `kubectl taint nodes <node_name> roll=true:NoSchedule` should succeed, based on our verbs list including `update` .
 
 Thanks for reading!

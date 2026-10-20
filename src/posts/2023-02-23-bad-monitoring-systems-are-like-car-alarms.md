@@ -1,6 +1,5 @@
 ---
 title: "Bad Monitoring Systems are like Car Alarms"
-subtitle: "At least the boy who cried “wolf” stayed by his sheep"
 date: 2023-02-23
 medium_url: "https://medium.com/@mckornfield/bad-monitoring-systems-are-like-car-alarms-f1b175ff0aec"
 ---

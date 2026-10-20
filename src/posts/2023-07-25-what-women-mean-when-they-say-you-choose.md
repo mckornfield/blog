@@ -1,6 +1,5 @@
 ---
 title: "What Women Mean When They Say “You Choose.”"
-subtitle: "It doesn’t mean “your choice.”"
 date: 2023-07-25
 medium_url: "https://medium.com/@mckornfield/what-women-mean-when-they-say-you-choose-4e07c4b06039"
 ---

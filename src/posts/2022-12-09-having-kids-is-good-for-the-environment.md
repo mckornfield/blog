@@ -1,6 +1,5 @@
 ---
 title: "Having Kids is Good For the Environment"
-subtitle: "Yes you read the title right. GOOD for it. Am I crazy?"
 date: 2022-12-09
 medium_url: "https://medium.com/@mckornfield/maybe-having-kids-is-good-for-the-environment-6a1ff9cc180c"
 ---

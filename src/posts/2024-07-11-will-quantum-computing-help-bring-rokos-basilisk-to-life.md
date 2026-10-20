@@ -1,6 +1,5 @@
 ---
 title: "Will Quantum Computing Help Bring Roko’s Basilisk to Life?"
-subtitle: "And is there anything we can do to prepare for it?"
 date: 2024-07-11
 medium_url: "https://medium.com/@mckornfield/will-quantum-computing-help-bring-rokos-basilisk-to-life-41d45da7e2c0"
 ---

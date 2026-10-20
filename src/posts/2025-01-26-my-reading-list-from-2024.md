@@ -1,6 +1,5 @@
 ---
 title: "My Reading List from 2024"
-subtitle: "What I’d recommend of the set of books I read/listened to this past year"
 date: 2025-01-26
 medium_url: "https://medium.com/@mckornfield/my-reading-list-from-2024-29362a431390"
 ---

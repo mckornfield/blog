@@ -1,6 +1,5 @@
 ---
 title: "A Good Life Embraces Friction"
-subtitle: "And a soft life makes a soft person"
 date: 2024-04-18
 medium_url: "https://medium.com/@mckornfield/a-good-life-embraces-friction-3e7376c475f9"
 ---

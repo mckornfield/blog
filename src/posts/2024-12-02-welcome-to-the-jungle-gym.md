@@ -1,6 +1,5 @@
 ---
 title: "Welcome to the Jungle Gym"
-subtitle: "We don’t have fun and games"
 date: 2024-12-02
 medium_url: "https://medium.com/@mckornfield/welcome-to-the-jungle-gym-c2688da25f03"
 ---

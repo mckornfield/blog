@@ -1,6 +1,5 @@
 ---
 title: "My Brother is a Silent Mirror of Me"
-subtitle: "Only 18 months and an Autism diagnosis apart"
 date: 2022-12-12
 medium_url: "https://medium.com/@mckornfield/my-brother-is-a-silent-mirror-of-me-72f37a16ba8f"
 ---

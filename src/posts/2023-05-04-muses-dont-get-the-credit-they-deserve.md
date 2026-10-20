@@ -1,6 +1,6 @@
 ---
 title: "Muses Don’t Get the Credit They Deserve"
-subtitle: "Why inspiration matters, and why it should be rewarded"
+subtitle: "Why inspiration matters, and why it should be rewarded"
 date: 2023-05-04
 medium_url: "https://medium.com/@mckornfield/muses-dont-get-the-credit-they-deserve-afeb53b87f6c"
 ---

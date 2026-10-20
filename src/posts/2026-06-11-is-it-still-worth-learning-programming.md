@@ -1,6 +1,6 @@
 ---
 title: "Is it still worth learning programming?"
-subtitle: "Even if all the code is written by AI?"
+subtitle: "Even if all the code is written by AI?"
 date: 2026-06-11
 medium_url: "https://medium.com/@mckornfield/is-it-still-worth-learning-programming-377c70905fc9"
 ---

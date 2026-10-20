@@ -1,6 +1,5 @@
 ---
 title: "Machine Assisted Artistry"
-subtitle: "Some thoughts on ML, art and content"
 date: 2024-07-24
 medium_url: "https://medium.com/@mckornfield/machine-artistry-4952e6398b05"
 ---

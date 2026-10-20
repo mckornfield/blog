@@ -1,6 +1,5 @@
 ---
 title: "Effectiveness Beats Efficiency Every Time"
-subtitle: "If you want to make a difference in people’s lives, be effective"
 date: 2023-02-28
 medium_url: "https://medium.com/@mckornfield/effectiveness-beats-efficiency-every-time-5b794f3e1c81"
 ---

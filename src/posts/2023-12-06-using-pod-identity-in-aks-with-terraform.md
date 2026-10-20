@@ -1,6 +1,5 @@
 ---
 title: "Using Pod Identity in AKS with Terraform"
-subtitle: "Terraform-izing Microsoft’s tutorial"
 date: 2023-12-06
 medium_url: "https://medium.com/@mckornfield/using-pod-identity-in-aks-with-terraform-bdede7ab1b0f"
 ---
@@ -139,7 +138,7 @@ resource "azurerm_role_assignment" "example_worker_blob_contributor" {
 
 OK! Quite a bit there, but I think instead of explaining it without the last piece (the Kubernetes bit) I figured I’d just point out what we’re going to need for our Service Account and Deployment/Pod.
 
-We’ll need the `client\_id` for the user managed identity we just created. We can create another output if we’re going to install things outside of terraform or in another module.
+We’ll need the `client_id` for the user managed identity we just created. We can create another output if we’re going to install things outside of terraform or in another module.
 
 ```lua
 output "managed_user_client_id" {

@@ -1,6 +1,6 @@
 ---
 title: "Tell a Story With Your Software Resume"
-subtitle: "A few resume pointers I think might help folks looking for work"
+subtitle: "A few resume pointers I think might help folks looking for work"
 date: 2023-08-08
 medium_url: "https://medium.com/@mckornfield/tell-a-story-with-your-software-resume-781ee1e5f800"
 ---

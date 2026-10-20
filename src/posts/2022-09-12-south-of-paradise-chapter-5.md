@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 5"
-subtitle: "Table of Contents"
 date: 2022-09-12
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-4-58b0386459db"
 ---

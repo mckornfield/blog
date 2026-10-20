@@ -1,6 +1,5 @@
 ---
 title: "Is Software Like a Rice Paddy or a Wheat Field?"
-subtitle: "Does more effort equal more gain?"
 date: 2023-01-11
 medium_url: "https://medium.com/@mckornfield/is-software-like-a-rice-paddy-or-a-wheat-field-a93a2a40ec82"
 ---

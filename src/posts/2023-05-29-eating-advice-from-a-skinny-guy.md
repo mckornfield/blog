@@ -1,6 +1,5 @@
 ---
 title: "Eating Advice from a Skinny Guy"
-subtitle: "And someone who’s read some books"
 date: 2023-05-29
 medium_url: "https://medium.com/@mckornfield/eating-advice-from-a-skinny-guy-3bec0d0a2c46"
 ---

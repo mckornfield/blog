@@ -1,6 +1,6 @@
 ---
 title: "What Toddlers Teach Us About Software Project Management"
-subtitle: "It will always take longer before AND after whatever you’re going to do"
+subtitle: "It will always take longer before AND after whatever you’re going to do"
 date: 2023-07-18
 medium_url: "https://medium.com/@mckornfield/what-toddlers-teach-us-about-software-project-management-fdfc9908d2a8"
 ---

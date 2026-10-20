@@ -1,6 +1,5 @@
 ---
 title: "Why Is Infrastructure As Code Important?"
-subtitle: "A short history lesson, with some examples of Infrastructure as Code (IaC)"
 date: 2023-06-18
 medium_url: "https://medium.com/@mckornfield/why-is-infrastructure-as-code-important-6d726f18e1d5"
 ---

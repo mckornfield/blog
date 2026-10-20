@@ -1,6 +1,5 @@
 ---
 title: "What Does it Mean to Start an EC2 Instance?"
-subtitle: "Or any VM in the cloud?"
 date: 2023-03-04
 medium_url: "https://medium.com/@mckornfield/what-does-it-mean-to-start-an-ec2-instance-ee228165971f"
 ---

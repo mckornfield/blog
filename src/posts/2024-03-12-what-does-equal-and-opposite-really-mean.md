@@ -1,6 +1,5 @@
 ---
 title: "What does “Equal and Opposite” really mean?"
-subtitle: "Clearing up Newton’s Third Law (without math!)"
 date: 2024-03-12
 medium_url: "https://medium.com/@mckornfield/what-does-equal-and-opposite-really-mean-95553a303724"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Pytest Fixtures and How to Use Them"
-subtitle: "They can be tricky, but useful"
 date: 2025-01-30
 medium_url: "https://medium.com/@mckornfield/pytest-fixtures-and-how-to-use-them-9b981eb0d687"
 ---

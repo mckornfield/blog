@@ -1,6 +1,5 @@
 ---
 title: "Remote Interviewing Etiquette"
-subtitle: "Think twice before jumping on an interview call unprepared"
 date: 2023-11-08
 medium_url: "https://medium.com/@mckornfield/remote-interviewing-etiquette-904fd573ecea"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Installing Python on a Mac and Changing The Shell… I Done Goofed"
-subtitle: "It’s all about the PATH-fu"
 date: 2022-11-10
 medium_url: "https://medium.com/@mckornfield/installing-python-on-a-mac-is-annoying-4247eb5920c"
 ---

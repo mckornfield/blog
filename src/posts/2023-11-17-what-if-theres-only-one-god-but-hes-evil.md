@@ -1,6 +1,5 @@
 ---
 title: "What If There’s Only One God, But He’s Evil?"
-subtitle: "Some thoughts while listening to the Sapiens book"
 date: 2023-11-17
 medium_url: "https://medium.com/@mckornfield/what-if-theres-only-one-god-but-he-s-evil-d26f677920e6"
 ---

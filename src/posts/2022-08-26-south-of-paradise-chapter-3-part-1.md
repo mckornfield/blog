@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise, Chapter 3, Part 1"
-subtitle: "This is a bit of a longer chapter, so I decided to break it up (if the ending seems abrupt haha)."
 date: 2022-08-26
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-3-part-1-3763ae157eec"
 ---

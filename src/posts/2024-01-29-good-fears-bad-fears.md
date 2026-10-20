@@ -1,6 +1,5 @@
 ---
 title: "Good Fears, Bad Fears"
-subtitle: "How some can be motivating, and some can paralyze us"
 date: 2024-01-29
 medium_url: "https://medium.com/@mckornfield/good-fears-bad-fears-ec62add8fce7"
 ---

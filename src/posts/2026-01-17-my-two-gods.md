@@ -1,6 +1,6 @@
 ---
 title: "My Two Gods"
-subtitle: "The mother and the father"
+subtitle: "The mother and the father"
 date: 2026-01-17
 medium_url: "https://medium.com/@mckornfield/my-two-gods-cde2e4b1d6a1"
 ---

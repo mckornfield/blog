@@ -1,6 +1,5 @@
 ---
 title: "Replacing Workers with AI Requires Overcoming Big Hurdles"
-subtitle: "“Automating Yourself Out of a Job”"
 date: 2024-11-12
 medium_url: "https://medium.com/@mckornfield/replacing-workers-with-ai-requires-overcoming-big-hurdles-2c5ca8890871"
 ---

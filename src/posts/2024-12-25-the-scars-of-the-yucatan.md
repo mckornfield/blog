@@ -1,6 +1,5 @@
 ---
 title: "The Scars of the Yucatán"
-subtitle: "Thoughts of the scars left on the region by man and meteor"
 date: 2024-12-25
 medium_url: "https://medium.com/@mckornfield/the-scars-of-the-yucat%C3%A1n-1ca1968a0ea8"
 ---

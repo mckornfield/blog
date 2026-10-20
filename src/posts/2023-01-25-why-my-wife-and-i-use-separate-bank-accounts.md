@@ -1,6 +1,5 @@
 ---
 title: "Why My Wife and I Use Separate Bank Accounts"
-subtitle: "And Why I Pay Her to Watch Our Kid"
 date: 2023-01-25
 medium_url: "https://medium.com/@mckornfield/why-my-wife-and-i-use-separate-bank-accounts-3ae25f0ab112"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Software Has Jacked Up Customer Support"
-subtitle: "Or at least, has made crappy things worse"
 date: 2025-01-16
 medium_url: "https://medium.com/@mckornfield/software-has-jacked-up-customer-support-f6d91cef1e20"
 ---

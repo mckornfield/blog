@@ -1,6 +1,5 @@
 ---
 title: "The Secret to Japan’s Success: Perfectionism"
-subtitle: "A week in Japan and some history made me think of “Japanese Exceptionalism”"
 date: 2023-07-25
 medium_url: "https://medium.com/@mckornfield/the-secret-to-japans-success-perfectionism-4559c5e21438"
 ---

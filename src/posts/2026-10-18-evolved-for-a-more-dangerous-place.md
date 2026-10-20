@@ -1,6 +1,6 @@
 ---
 title: "Evolved for a More Dangerous Place"
-subtitle: "On male violence"
+subtitle: "On male violence"
 date: 2026-10-18
 medium_url: "https://medium.com/@mckornfield/evolved-for-a-more-dangerous-place-06e7077f8515"
 ---

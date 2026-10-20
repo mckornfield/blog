@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 2"
-subtitle: "2 - The Way"
 date: 2022-08-20
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-two-db391813af13"
 ---

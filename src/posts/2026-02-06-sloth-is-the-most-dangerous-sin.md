@@ -1,6 +1,6 @@
 ---
 title: "Sloth is the most dangerous sin"
-subtitle: "Don’t let it abide"
+subtitle: "Don’t let it abide"
 date: 2026-02-06
 medium_url: "https://medium.com/@mckornfield/sloth-is-the-most-dangerous-sin-7201d7aeceab"
 ---

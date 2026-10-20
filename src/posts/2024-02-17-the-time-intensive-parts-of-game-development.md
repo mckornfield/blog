@@ -1,6 +1,6 @@
 ---
 title: "The Time Intensive Parts of Game Development"
-subtitle: "It’s not where I thought it was"
+subtitle: "It’s not where I thought it was"
 date: 2024-02-17
 medium_url: "https://medium.com/@mckornfield/the-time-intensive-parts-of-game-development-4ac14debb4b4"
 ---

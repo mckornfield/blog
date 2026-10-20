@@ -1,6 +1,5 @@
 ---
 title: "Helm Create Part 2: Resources"
-subtitle: "A guide to the output of running helm create , with a focus on the resources and tests it creates."
 date: 2023-01-01
 medium_url: "https://medium.com/@mckornfield/helm-create-part-2-resources-4e73f650fbd0"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Kubectl with Cloudflare Zero Trust, Part 2"
-subtitle: "An addendum to Cloudflare’s blog post"
 date: 2024-03-27
 medium_url: "https://medium.com/@mckornfield/connecting-to-a-private-kubernetes-control-plane-with-cloudflare-91f86a107d4b"
 ---

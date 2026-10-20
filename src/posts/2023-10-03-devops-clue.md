@@ -1,6 +1,5 @@
 ---
 title: "DevOps Clue"
-subtitle: "Who caused the production outage?!"
 date: 2023-10-03
 medium_url: "https://medium.com/@mckornfield/devops-clue-0a90afd39f6c"
 ---
@@ -51,6 +50,19 @@ We’ve joked about this at work a bit so I thought it would be funny to write o
 10. The Mainframe (haha)
 
 ### As a table:
+
+| Suspect | Mechanism | Room |
+| --- | --- | --- |
+| The DevOps Engineer | Deleted | The Database |
+| The Software Intern | Rebooted | The Kubernetes Cluster |
+| The Security Engineer | Stopped | The Load Balancer |
+| The Senior Architect | Encrypted | The Prototype that Made it to Production |
+| The New Guy | Released a Bug to | The Redis Cluster |
+| Brett | Tripped Over the Power Cable Leading to | The ElasticSearch Cluster |
+| | | The Application Server |
+| | | The DNS Server |
+| | | The Data Center |
+| | | The Mainframe |
 
 ### Trying it out
 

@@ -1,6 +1,5 @@
 ---
 title: "Thinking of Moving to Mérida? Or Visiting?"
-subtitle: "Some thoughts on this colonial Mexican city"
 date: 2024-12-24
 medium_url: "https://medium.com/@mckornfield/thinking-of-moving-to-m%C3%A9rida-or-visiting-41e8cb92fbc5"
 ---

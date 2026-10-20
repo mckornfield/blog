@@ -1,6 +1,6 @@
 ---
 title: "Work Harder, Not Smarter"
-subtitle: "You read that right"
+subtitle: "You read that right"
 date: 2025-10-18
 medium_url: "https://medium.com/@mckornfield/work-harder-not-smarter-2b4e60dd8598"
 ---

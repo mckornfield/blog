@@ -1,6 +1,5 @@
 ---
 title: "The Latest Reinvention of the System Admin: MLOps"
-subtitle: "One does not simply “run a model”"
 date: 2024-09-08
 medium_url: "https://medium.com/@mckornfield/the-latest-reinvention-of-the-system-admin-mlops-d73abdbba29b"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "We Are Screwed"
-subtitle: "How Americans have no good choices in 2024"
 date: 2024-07-04
 medium_url: "https://medium.com/@mckornfield/we-are-screwed-59877809c76e"
 ---

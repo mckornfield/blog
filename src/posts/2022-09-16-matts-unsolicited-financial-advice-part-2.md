@@ -1,6 +1,5 @@
 ---
 title: "Matt’s Unsolicited Financial Advice, Part 2"
-subtitle: "I had a couple more topics I wanted to discuss that will probably come up when doing financial planning, hopefully this helps if you have…"
 date: 2022-09-16
 medium_url: "https://medium.com/@mckornfield/matts-unsolicited-financial-advice-part-2-6a1e915b18cc"
 ---

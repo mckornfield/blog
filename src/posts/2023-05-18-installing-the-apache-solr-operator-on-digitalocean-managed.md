@@ -1,6 +1,5 @@
 ---
 title: "Installing the Apache Solr Operator on DigitalOcean Managed Kubernetes"
-subtitle: "Using terraform!"
 date: 2023-05-18
 medium_url: "https://medium.com/@mckornfield/installing-the-apache-solr-operator-on-digitalocean-managed-kubernetes-7129a65b50cb"
 ---

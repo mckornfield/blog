@@ -1,6 +1,5 @@
 ---
 title: "Exercising Stock Options and Receiving/Selling RSUs"
-subtitle: "Some information about what they are and how the taxes work"
 date: 2023-03-05
 medium_url: "https://medium.com/@mckornfield/exercising-stock-options-and-receiving-selling-rsus-e6933a850413"
 ---

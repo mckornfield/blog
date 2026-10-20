@@ -1,6 +1,5 @@
 ---
 title: "The Hours Spent Debugging are a Feature, Not a Bug"
-subtitle: "It just matters WHEN and WHERE you have to do it"
 date: 2024-12-18
 medium_url: "https://medium.com/@mckornfield/the-hours-spent-debugging-are-a-feature-not-a-bug-ccad5430fa78"
 ---

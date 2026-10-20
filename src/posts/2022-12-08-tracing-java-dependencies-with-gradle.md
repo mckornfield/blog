@@ -1,6 +1,5 @@
 ---
 title: "Tracing Java Dependencies with Gradle"
-subtitle: "Ever wonder why a library ends up in your Production JAR?"
 date: 2022-12-08
 medium_url: "https://medium.com/@mckornfield/tracing-java-dependencies-with-gradle-98dd93f8e973"
 ---

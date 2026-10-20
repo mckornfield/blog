@@ -1,6 +1,5 @@
 ---
 title: "No, You Don’t Have 17 Viruses"
-subtitle: "Some advice against phishers and stupid ads"
 date: 2023-04-15
 medium_url: "https://medium.com/@mckornfield/no-you-dont-have-17-viruses-2b47edc9a4bf"
 ---

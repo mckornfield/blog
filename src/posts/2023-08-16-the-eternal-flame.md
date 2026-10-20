@@ -1,6 +1,5 @@
 ---
 title: "The Eternal Flame"
-subtitle: "More poetry? Haha why not!"
 date: 2023-08-16
 medium_url: "https://medium.com/@mckornfield/the-eternal-flame-18c2a595cc57"
 ---

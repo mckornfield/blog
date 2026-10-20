@@ -1,6 +1,6 @@
 ---
 title: "Simple Advice for Simple Resumes"
-subtitle: "Remember what it’s for/how it’s used"
+subtitle: "Remember what it’s for/how it’s used"
 date: 2025-08-29
 medium_url: "https://medium.com/@mckornfield/simple-advice-for-simple-resumes-c4da4dceaf63"
 ---

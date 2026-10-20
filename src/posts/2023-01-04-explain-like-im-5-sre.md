@@ -1,6 +1,5 @@
 ---
 title: "Explain like I’m 5: SRE"
-subtitle: "Failure and toil are inevitable. How do you deal with it?"
 date: 2023-01-04
 medium_url: "https://medium.com/@mckornfield/explain-like-im-5-sre-c3aa483e8dae"
 ---
@@ -52,6 +51,14 @@ Nothing is infinite in life. In cloud based software systems that fall apart, th
 Properly means more than one thing, but consider a Google search that took 2 minutes to return. That wouldn’t be something you’d say was working “properly.”
 
 Here’s a table of how long over a year something can be down. The number of 9s in the left is what people refer to when they say “three 9s” or “five 9s.”
+
+| % | downtime per year | downtime per day |
+| --- | --- | --- |
+| 90% | 36.53 days | 2.40 hours |
+| 99% | 3.65 days | 14.40 minutes |
+| 99.9% | 8.77 hours | 1.44 minutes |
+| 99.99% | 52.60 minutes | 8.64 seconds |
+| 99.999% | 5.26 minutes | 0.864 seconds |
 
 *1–5 9s of availability.*
 

@@ -1,6 +1,5 @@
 ---
 title: "Some Thoughts on GKE Autopilot"
-subtitle: "Let the cloud provider do the cluster management! But be patient"
 date: 2023-01-10
 medium_url: "https://medium.com/@mckornfield/hands-on-with-gke-autopilot-11d5a1a2141b"
 ---

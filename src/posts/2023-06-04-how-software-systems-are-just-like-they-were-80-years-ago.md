@@ -1,6 +1,5 @@
 ---
 title: "How Software Systems are Just Like They Were 80 Years Ago"
-subtitle: "Mainframes -> PCs -> Cloud"
 date: 2023-06-04
 medium_url: "https://medium.com/@mckornfield/how-software-systems-are-just-like-they-were-80-years-ago-2c21f3127397"
 ---

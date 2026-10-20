@@ -1,6 +1,5 @@
 ---
 title: "Surrogacy: As If Childbirth Weren’t Already a Wild Ride"
-subtitle: "My journey through the surrogacy process."
 date: 2022-11-09
 medium_url: "https://medium.com/@mckornfield/surrogacy-as-if-childbirth-werent-already-a-wild-ride-416ef73d8e2c"
 ---

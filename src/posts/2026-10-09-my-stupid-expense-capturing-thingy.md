@@ -1,6 +1,6 @@
 ---
 title: "My Stupid Expense Capturing Thingy"
-subtitle: "You too, can process receipts with AI"
+subtitle: "You too, can process receipts with AI"
 date: 2026-10-09
 medium_url: "https://medium.com/@mckornfield/my-stupid-expense-capturing-thingy-1635cda8b337"
 ---

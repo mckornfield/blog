@@ -1,6 +1,5 @@
 ---
 title: "We Do This to Survive"
-subtitle: "Thoughts while looking up at the sky and ground"
 date: 2024-08-02
 medium_url: "https://medium.com/@mckornfield/we-do-this-to-survive-8c40c0322eae"
 ---

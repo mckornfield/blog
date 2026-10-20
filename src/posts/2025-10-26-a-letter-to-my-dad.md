@@ -1,6 +1,6 @@
 ---
 title: "A Letter to My Dad"
-subtitle: "About why I won’t interact with him anymore"
+subtitle: "About why I won’t interact with him anymore"
 date: 2025-10-26
 medium_url: "https://medium.com/@mckornfield/a-letter-to-my-dad-be06a7f609d8"
 ---

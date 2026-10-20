@@ -1,6 +1,5 @@
 ---
 title: "The Armor of Self Hatred"
-subtitle: "How beating yourself up is a defense, but not a good one"
 date: 2025-01-25
 medium_url: "https://medium.com/@mckornfield/the-armor-of-self-hatred-96fd061a9188"
 ---

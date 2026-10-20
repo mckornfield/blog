@@ -1,6 +1,5 @@
 ---
 title: "Water, Electricity, Content"
-subtitle: "How transmission/fungibility makes consumption possible and profitable"
 date: 2023-11-10
 medium_url: "https://medium.com/@mckornfield/water-electricity-content-0f3a6f6a9d13"
 ---

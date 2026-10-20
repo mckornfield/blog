@@ -1,6 +1,5 @@
 ---
 title: "We’re Sad, Ugly and Stupid, Us Americans"
-subtitle: "At least that’s what multinational companies tell us"
 date: 2023-01-17
 medium_url: "https://medium.com/@mckornfield/were-sad-ugly-and-stupid-us-americans-189ae70bf6f8"
 ---

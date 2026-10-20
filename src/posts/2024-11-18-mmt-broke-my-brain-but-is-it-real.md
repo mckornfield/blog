@@ -1,6 +1,5 @@
 ---
 title: "MMT Broke My Brain, But is It Real?"
-subtitle: "Creating and deleting money, no big deal"
 date: 2024-11-18
 medium_url: "https://medium.com/@mckornfield/mmt-broke-my-brain-but-is-it-real-bdb2e60ffde0"
 ---

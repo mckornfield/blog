@@ -1,6 +1,5 @@
 ---
 title: "The Automation Reality"
-subtitle: "Automated things require lots of manual work to maintain"
 date: 2024-09-21
 medium_url: "https://medium.com/@mckornfield/the-automation-reality-7cc17a6ae00a"
 ---

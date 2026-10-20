@@ -1,6 +1,5 @@
 ---
 title: "Rolling Nodes in a Kubernetes Cluster Safely"
-subtitle: "Don’t blow up your long running workloads if you can help it!"
 date: 2023-05-28
 medium_url: "https://medium.com/@mckornfield/rolling-nodes-in-a-kubernetes-cluster-safely-1d7dc59d64e8"
 ---

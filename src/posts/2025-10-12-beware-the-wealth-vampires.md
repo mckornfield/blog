@@ -1,6 +1,5 @@
 ---
 title: "Beware the Wealth Vampires"
-subtitle: "Don’t pick up the phone, and don’t sign up"
 date: 2025-10-12
 medium_url: "https://medium.com/@mckornfield/beware-the-wealth-vampires-0fbe05e9c92f"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "The Reason to Use a Password Manager No One Talks About"
-subtitle: "Planning for contingencies"
 date: 2024-01-22
 medium_url: "https://medium.com/@mckornfield/the-reason-to-use-a-password-manager-no-one-talks-about-e48fc5d78a58"
 ---

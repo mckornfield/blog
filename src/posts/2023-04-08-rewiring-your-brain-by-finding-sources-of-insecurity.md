@@ -1,6 +1,6 @@
 ---
 title: "Rewiring Your Brain by Finding Sources of Insecurity"
-subtitle: "System 1 Superhighways are hijacking your life"
+subtitle: "System 1 Superhighways are hijacking your life"
 date: 2023-04-08
 medium_url: "https://medium.com/@mckornfield/rewiring-your-brain-by-finding-sources-of-insecurity-8efbc598783d"
 ---

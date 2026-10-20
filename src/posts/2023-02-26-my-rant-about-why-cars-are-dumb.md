@@ -1,6 +1,5 @@
 ---
 title: "My Rant About Why Cars are Dumb"
-subtitle: "I need to get this out of my system every so often, so here it goes…"
 date: 2023-02-26
 medium_url: "https://medium.com/@mckornfield/my-rant-about-why-cars-are-dumb-bea7f8343f50"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "“A sense of obligation”"
-subtitle: "How I’ve learned to work for who I want to be"
 date: 2025-01-20
 medium_url: "https://medium.com/@mckornfield/a-sense-of-obligation-90a3ed95d2e0"
 ---

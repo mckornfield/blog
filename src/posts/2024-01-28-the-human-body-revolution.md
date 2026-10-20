@@ -1,6 +1,5 @@
 ---
 title: "The Human Body Revolution"
-subtitle: "How AI will make our bodies more important than our brains"
 date: 2024-01-28
 medium_url: "https://medium.com/@mckornfield/the-human-body-revolution-f02b395e1023"
 ---

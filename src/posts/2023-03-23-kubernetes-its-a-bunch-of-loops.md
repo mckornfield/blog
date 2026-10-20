@@ -1,6 +1,5 @@
 ---
 title: "Kubernetes: It’s a Bunch of Loops"
-subtitle: "Apparently it’s that simple?"
 date: 2023-03-23
 medium_url: "https://medium.com/@mckornfield/kubernetes-its-a-bunch-of-loops-c23659d3f955"
 ---

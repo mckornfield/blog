@@ -1,6 +1,5 @@
 ---
 title: "We Won’t Fix the Climate, So What Should We Do Instead?"
-subtitle: "Centering everything around carbon might be foolish"
 date: 2023-05-27
 medium_url: "https://medium.com/@mckornfield/we-wont-fix-the-climate-so-what-should-we-do-instead-a54d883e5de2"
 ---

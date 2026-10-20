@@ -1,6 +1,5 @@
 ---
 title: "Professional Wrestling is More Real than US Politics"
-subtitle: "Politicians don’t take hits but they practice an awkward kayfabe"
 date: 2023-02-03
 medium_url: "https://medium.com/@mckornfield/professional-wrestling-is-more-real-than-us-politics-ffb45c84f564"
 ---

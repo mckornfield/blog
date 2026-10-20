@@ -1,6 +1,5 @@
 ---
 title: "Linting: The Seat Belts of Software"
-subtitle: "My personal experience with linting, and why I think it’s worth it"
 date: 2023-04-01
 medium_url: "https://medium.com/@mckornfield/linting-the-seat-belts-of-software-13e9fdd955f7"
 ---

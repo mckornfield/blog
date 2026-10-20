@@ -1,6 +1,5 @@
 ---
 title: "To Cache or Not to Cache"
-subtitle: "Things might be faster, but they also might be wrong!"
 date: 2023-04-27
 medium_url: "https://medium.com/@mckornfield/to-cache-or-not-to-cache-2bc9fc7e8aeb"
 ---

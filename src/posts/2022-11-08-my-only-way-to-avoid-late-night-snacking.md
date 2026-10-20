@@ -1,6 +1,5 @@
 ---
 title: "My Only Way to Avoid Late Night Snacking"
-subtitle: "Fight one bad habit with a good one"
 date: 2022-11-08
 medium_url: "https://medium.com/@mckornfield/my-only-way-to-avoid-late-night-snacking-7d58591d011c"
 ---

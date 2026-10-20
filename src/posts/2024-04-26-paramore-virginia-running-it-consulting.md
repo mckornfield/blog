@@ -1,6 +1,5 @@
 ---
 title: "Paramore, Virginia, Running, IT Consulting"
-subtitle: "How music is a direct link to my past"
 date: 2024-04-26
 medium_url: "https://medium.com/@mckornfield/paramore-virginia-running-it-consulting-d9342992f247"
 ---

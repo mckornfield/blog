@@ -1,6 +1,5 @@
 ---
 title: "TOTP and Passkeys in a Password Manager… Is It a Good Idea?"
-subtitle: "The question is about trust"
 date: 2024-09-24
 medium_url: "https://medium.com/@mckornfield/totp-and-passkeys-in-a-password-manager-is-it-a-good-idea-0aa16ac6c19f"
 ---

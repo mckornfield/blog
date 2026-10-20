@@ -1,6 +1,5 @@
 ---
 title: "Making Decisions Should Be Like Shooting Arrows"
-subtitle: "Some thoughts on choice architecture"
 date: 2024-01-18
 medium_url: "https://medium.com/@mckornfield/do-we-choose-everything-or-only-a-few-things-33f5e084774a"
 ---

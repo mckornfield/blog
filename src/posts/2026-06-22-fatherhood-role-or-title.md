@@ -1,6 +1,5 @@
 ---
 title: "Fatherhood: Role or Title?"
-subtitle: "In the workplace, I worked with people who were “Product Owners”, but was confused when I looked at the workspace portal and found that…"
 date: 2026-06-22
 medium_url: "https://medium.com/@mckornfield/fatherhood-role-or-title-3022ad61cbf7"
 ---

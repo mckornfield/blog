@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise, Chapter 3, Part 2"
-subtitle: "Continuing where we left off in part one…"
 date: 2022-08-29
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-3-part-2-d0247e3c213f"
 ---

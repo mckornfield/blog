@@ -1,6 +1,5 @@
 ---
 title: "Explain Like I’m 5: Python Functions"
-subtitle: "Even if you can’t write a line of code, I’ll explain it to you."
 date: 2022-10-15
 medium_url: "https://medium.com/@mckornfield/explain-like-im-5-python-functions-e71bbefdfbb"
 ---

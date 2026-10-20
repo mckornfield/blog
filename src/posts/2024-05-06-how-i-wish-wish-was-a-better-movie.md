@@ -1,6 +1,5 @@
 ---
 title: "How I Wish “Wish” Was a Better Movie"
-subtitle: "The star was so cute!"
 date: 2024-05-06
 medium_url: "https://medium.com/@mckornfield/how-i-wish-wish-was-a-better-movie-d23a5d72e355"
 ---

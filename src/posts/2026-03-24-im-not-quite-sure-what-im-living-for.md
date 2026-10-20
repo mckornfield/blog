@@ -1,6 +1,5 @@
 ---
 title: "I’m Not Quite Sure What I’m Living For"
-subtitle: "Less a cry for help and more a cry into the void"
 date: 2026-03-24
 medium_url: "https://medium.com/@mckornfield/im-not-quite-sure-what-i-m-living-for-55bdf14605e7"
 ---

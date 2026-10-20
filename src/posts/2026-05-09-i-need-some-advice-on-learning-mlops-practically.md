@@ -1,6 +1,6 @@
 ---
 title: "“I Need Some Advice on Learning MLOps Practically”"
-subtitle: "Well… here’s a few answers"
+subtitle: "Well… here’s a few answers"
 date: 2026-05-09
 medium_url: "https://medium.com/@mckornfield/i-need-some-advice-on-learning-mlops-practically-d12ac98e3eb7"
 ---
@@ -121,7 +121,7 @@ def receive(data: SomeData):
   …
 ```
 
-And that at least used a `dataclass`. I’ve seen a lot of `my_dict ={}` and `Map&lt;String,Object>` in my short stint in software.
+And that at least used a `dataclass`. I’ve seen a lot of `my_dict ={}` and `Map<String,Object>` in my short stint in software.
 
 The point being: keeping up with these tools and their limitations is important, not because you should fear your replacement, but because you should figure out *where you are valuable.* In the MLOps space, that’s going to be by being ready/first in line to try out what researchers and applied scientists have been working on, to see if it’s bunk or the new hotness. And maybe making some contributions or work of your own!
 

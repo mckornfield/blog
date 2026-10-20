@@ -1,6 +1,6 @@
 ---
 title: "Weird Gotchas with EKS Autoscaling Groups"
-subtitle: "Some things that have bitten me recently that I thought might be worthwhile to pass on"
+subtitle: "Some things that have bitten me recently that I thought might be worthwhile to pass on"
 date: 2023-09-19
 medium_url: "https://medium.com/@mckornfield/weird-gotchas-with-eks-autoscaling-groups-c8e1eeaa04ea"
 ---

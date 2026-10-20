@@ -1,6 +1,5 @@
 ---
 title: "The End, Not the Means"
-subtitle: "What Women and Children Are to Men"
 date: 2024-10-29
 medium_url: "https://medium.com/@mckornfield/the-end-not-the-means-798bbbc9f252"
 ---

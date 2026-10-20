@@ -1,6 +1,5 @@
 ---
 title: "How to Lose a Girl in One Date"
-subtitle: "Some fun stories from a friend of dates gone wrong"
 date: 2024-05-03
 medium_url: "https://medium.com/@mckornfield/how-to-lose-a-girl-in-one-date-4c4542ff151b"
 ---

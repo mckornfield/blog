@@ -1,6 +1,5 @@
 ---
 title: "The Rites of the Righting Writer"
-subtitle: "Do you have what it takes?"
 date: 2022-10-11
 medium_url: "https://medium.com/@mckornfield/the-rites-of-the-righting-writer-c2dd19987063"
 ---

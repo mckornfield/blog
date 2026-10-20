@@ -1,6 +1,5 @@
 ---
 title: "Our Inner Lizard Keeps Us Instantly Unsatisfied"
-subtitle: "How the world of instant gratification preys on the oldest part of our brain"
 date: 2024-12-21
 medium_url: "https://medium.com/@mckornfield/our-inner-lizard-keeps-us-instantly-unsatisfied-a86eb24491dd"
 ---

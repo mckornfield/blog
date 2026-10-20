@@ -1,6 +1,6 @@
 ---
 title: "Did the Ark of the Covenant Contain a Radioactive Meteorite?"
-subtitle: "Bear with me here"
+subtitle: "Bear with me here"
 date: 2026-08-25
 medium_url: "https://medium.com/@mckornfield/did-the-ark-of-the-covenant-contain-a-radioactive-meteorite-5aeecd919e41"
 ---

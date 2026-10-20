@@ -1,6 +1,5 @@
 ---
 title: "The Century of Satire"
-subtitle: "Is this the last century of the USA?"
 date: 2024-11-29
 medium_url: "https://medium.com/@mckornfield/the-century-of-satire-b2ce7bf5cc32"
 ---

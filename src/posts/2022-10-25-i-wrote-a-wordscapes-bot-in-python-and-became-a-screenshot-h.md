@@ -1,6 +1,5 @@
 ---
 title: "I Wrote a Wordscapes Bot in Python, And Became a Screenshot Hoarder"
-subtitle: "Hey, bots want to have fun too!"
 date: 2022-10-25
 medium_url: "https://medium.com/@mckornfield/i-wrote-a-wordscapes-bot-to-swipe-for-me-3b4cac9f60f4"
 ---

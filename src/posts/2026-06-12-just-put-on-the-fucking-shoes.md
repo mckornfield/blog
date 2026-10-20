@@ -1,6 +1,6 @@
 ---
 title: "Just Put on the Fucking Shoes"
-subtitle: "A few notes on running"
+subtitle: "A few notes on running"
 date: 2026-06-12
 medium_url: "https://medium.com/@mckornfield/just-put-on-the-fucking-shoes-e4e6b1041426"
 ---

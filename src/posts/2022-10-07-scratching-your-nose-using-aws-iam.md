@@ -1,6 +1,5 @@
 ---
 title: "Scratching your nose… using AWS IAM"
-subtitle: "I thought I’d write something silly explaining how to use AWS IAM (Identity and Access Management) permissions with something really…"
 date: 2022-10-07
 medium_url: "https://medium.com/@mckornfield/scratching-your-nose-using-aws-iam-1e86231d99ba"
 ---

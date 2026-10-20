@@ -1,6 +1,6 @@
 ---
 title: "Code Style Matters in a Take-Home Interview"
-subtitle: "What you produce in a vacuum is reflective of how you build and your level of effort"
+subtitle: "What you produce in a vacuum is reflective of how you build and your level of effort"
 date: 2023-05-16
 medium_url: "https://medium.com/@mckornfield/why-code-style-matters-in-a-take-home-interview-problem-c53623e4d2a2"
 ---

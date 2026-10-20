@@ -1,6 +1,5 @@
 ---
 title: "Tailing Kubernetes JSON Logs? jq can help"
-subtitle: "A bit of JSON parsing goes a long way"
 date: 2024-11-26
 medium_url: "https://medium.com/@mckornfield/tailing-kubernetes-json-logs-jq-can-help-2ce6fbe7bd21"
 ---

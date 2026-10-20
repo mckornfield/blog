@@ -1,6 +1,5 @@
 ---
 title: "A Visual Summary of “Don’t Get Hacked Grandpa!”"
-subtitle: "My stick figure ability being put to the test"
 date: 2025-01-20
 medium_url: "https://medium.com/@mckornfield/a-visual-summary-of-dont-get-hacked-grandpa-7be1bb69c883"
 ---

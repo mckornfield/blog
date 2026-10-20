@@ -1,6 +1,5 @@
 ---
 title: "A Zero Trust Internet"
-subtitle: "A preview chapter from my book"
 date: 2023-11-28
 medium_url: "https://medium.com/@mckornfield/a-zero-trust-internet-a7cc09a1218c"
 ---

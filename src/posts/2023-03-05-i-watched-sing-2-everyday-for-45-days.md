@@ -1,6 +1,5 @@
 ---
 title: "I Watched Sing 2 Everyday for 45 Days"
-subtitle: "Here’s what I learned"
 date: 2023-03-05
 medium_url: "https://medium.com/@mckornfield/i-watched-sing-2-everyday-for-45-days-a2d21ada67d5"
 ---

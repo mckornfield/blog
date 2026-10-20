@@ -1,6 +1,5 @@
 ---
 title: "AWS Role Assumption from a GCP VM"
-subtitle: "Now with terraform!"
 date: 2024-05-02
 medium_url: "https://medium.com/@mckornfield/aws-role-assumption-from-a-gcp-vm-5abec58bd450"
 ---

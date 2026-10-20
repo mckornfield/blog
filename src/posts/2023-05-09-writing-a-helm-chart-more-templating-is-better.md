@@ -1,6 +1,5 @@
 ---
 title: "Writing a Helm Chart: More Templating is Better"
-subtitle: "All the Things vs. YAGNI"
 date: 2023-05-09
 medium_url: "https://medium.com/@mckornfield/writing-a-helm-chart-more-templating-is-better-9502795a533f"
 ---

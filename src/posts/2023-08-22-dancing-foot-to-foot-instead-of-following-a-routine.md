@@ -1,6 +1,5 @@
 ---
 title: "Dancing Foot to Foot Instead of Following a Routine"
-subtitle: "Some advice I got about dancing that I think applies really well to relationships"
 date: 2023-08-22
 medium_url: "https://medium.com/@mckornfield/dancing-foot-to-foot-instead-of-following-a-routine-10869b9d46a5"
 ---

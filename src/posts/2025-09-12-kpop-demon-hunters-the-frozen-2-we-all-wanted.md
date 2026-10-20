@@ -1,6 +1,5 @@
 ---
 title: "KPop Demon Hunters: The Frozen 2 We All Wanted"
-subtitle: "Some comparisons and differences"
 date: 2025-09-12
 medium_url: "https://medium.com/@mckornfield/kpop-demon-hunters-the-frozen-2-we-all-wanted-06bcdfa85e3a"
 ---

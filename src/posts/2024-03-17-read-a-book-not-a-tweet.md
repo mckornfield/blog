@@ -1,6 +1,5 @@
 ---
 title: "Read a Book, not a Tweet"
-subtitle: "Or at the very least, a Medium article (haha)"
 date: 2024-03-17
 medium_url: "https://medium.com/@mckornfield/read-a-book-not-a-tweet-21782c6ed2d2"
 ---

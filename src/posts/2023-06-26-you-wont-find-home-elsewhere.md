@@ -1,6 +1,5 @@
 ---
 title: "You Won’t Find Home Elsewhere"
-subtitle: "Traveling abroad always reminds me of who I am and am not"
 date: 2023-06-26
 medium_url: "https://medium.com/@mckornfield/you-wont-find-home-elsewhere-f1ceebe9e0c4"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Unlearning"
-subtitle: "On things I thought I knew, but am now not so sure"
+subtitle: "On things I thought I knew, but am now not so sure"
 date: 2026-08-10
 medium_url: "https://medium.com/@mckornfield/unlearning-6ed38c975774"
 ---

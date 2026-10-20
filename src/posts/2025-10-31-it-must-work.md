@@ -1,6 +1,6 @@
 ---
 title: "It Must Work"
-subtitle: "The only meaningful manifesto in software"
+subtitle: "The only meaningful manifesto in software"
 date: 2025-10-31
 medium_url: "https://medium.com/@mckornfield/it-must-work-c1766bac3e14"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Why Japan’s Cities Are So Clean"
-subtitle: "Some recent takeaways from my visit to Tokyo and Osaka"
 date: 2023-07-01
 medium_url: "https://medium.com/@mckornfield/why-i-think-japans-cities-are-so-clean-790909a6ec88"
 ---

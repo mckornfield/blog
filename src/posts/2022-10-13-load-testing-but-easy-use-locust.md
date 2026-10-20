@@ -1,6 +1,5 @@
 ---
 title: "Load Testing but Easy? Use Locust!"
-subtitle: "Here’s what you need to know to use this great tool."
 date: 2022-10-13
 medium_url: "https://medium.com/@mckornfield/load-testing-but-easy-use-locust-1e270e0678bf"
 ---

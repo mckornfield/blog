@@ -1,6 +1,5 @@
 ---
 title: "I’ll Teach You the Python Basics in Under 10 Minutes"
-subtitle: "But it will take you years to understand!"
 date: 2022-11-02
 medium_url: "https://medium.com/@mckornfield/ill-teach-you-the-python-basics-in-under-10-minutes-4ca4a94a7d68"
 ---

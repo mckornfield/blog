@@ -1,6 +1,6 @@
 ---
 title: "You are what you aren’t"
-subtitle: "“Say No to Drugs Kids!”"
+subtitle: "“Say No to Drugs Kids!”"
 date: 2026-05-28
 medium_url: "https://medium.com/@mckornfield/you-are-what-you-arent-73ed9549ed97"
 ---

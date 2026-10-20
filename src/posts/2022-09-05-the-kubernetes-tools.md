@@ -1,6 +1,5 @@
 ---
 title: "The Kubernetes Tools"
-subtitle: "If you don’t know what Kubernetes is, see my other article."
 date: 2022-09-05
 medium_url: "https://medium.com/@mckornfield/the-kubernetes-tools-39a730a7fceb"
 ---

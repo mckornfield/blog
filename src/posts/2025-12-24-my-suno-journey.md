@@ -1,6 +1,6 @@
 ---
 title: "My Suno Journey"
-subtitle: "And why I don’t think it’s just a fad"
+subtitle: "And why it might be worth your time and money"
 date: 2025-12-24
 medium_url: "https://medium.com/@mckornfield/my-suno-journey-1f9e3a70d1b2"
 ---

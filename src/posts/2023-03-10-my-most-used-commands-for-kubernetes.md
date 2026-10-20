@@ -1,6 +1,5 @@
 ---
 title: "My Most Used Commands for Kubernetes"
-subtitle: "And how you can find yours"
 date: 2023-03-10
 medium_url: "https://medium.com/@mckornfield/my-most-used-commands-for-kubernetes-97f7baeea59e"
 ---

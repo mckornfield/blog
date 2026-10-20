@@ -1,6 +1,5 @@
 ---
 title: "My 4 Favorite Python Scripting Tips"
-subtitle: "These are some Python tips I use to work with my personal scripts that help me be more productive/ automate things."
 date: 2022-09-30
 medium_url: "https://medium.com/@mckornfield/4-python-productivity-tips-bac195170487"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "On Qualia and Quantia"
-subtitle: "And how our modern lives can only amplify one"
+subtitle: "And how our modern lives can only amplify one"
 date: 2026-08-16
 medium_url: "https://medium.com/@mckornfield/on-qualia-and-quantia-6968edbae77c"
 ---

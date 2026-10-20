@@ -1,6 +1,5 @@
 ---
 title: "What is AWS and Why Should I Care?"
-subtitle: "30% of the Internet You Say?"
 date: 2022-11-02
 medium_url: "https://medium.com/@mckornfield/what-is-aws-and-why-should-i-care-a701769f3751"
 ---

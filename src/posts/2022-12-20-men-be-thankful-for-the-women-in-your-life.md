@@ -1,6 +1,5 @@
 ---
 title: "Men, Be Thankful for the Women in Your Life"
-subtitle: "Would life be worth living without them?"
 date: 2022-12-20
 medium_url: "https://medium.com/@mckornfield/men-be-thankful-for-the-women-in-your-life-d625776a6636"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Do Not Lose Your Voice"
-subtitle: "It might be all you are"
+subtitle: "It might be all you are"
 date: 2026-03-23
 medium_url: "https://medium.com/@mckornfield/do-not-lose-your-voice-c484838bd7ad"
 ---

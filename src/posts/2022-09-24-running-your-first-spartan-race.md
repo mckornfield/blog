@@ -1,6 +1,5 @@
 ---
 title: "Running Your First Spartan Race"
-subtitle: "Some tips for how you can get involved into Spartan Racing. It’s fun!"
 date: 2022-09-24
 medium_url: "https://medium.com/@mckornfield/running-your-first-spartan-race-84eb7b2f283f"
 ---

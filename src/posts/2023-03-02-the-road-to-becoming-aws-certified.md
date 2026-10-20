@@ -1,6 +1,5 @@
 ---
 title: "The Road to Becoming AWS Certified"
-subtitle: "It’s not rocket science, just multiple choice cloud computing questions"
 date: 2023-03-02
 medium_url: "https://medium.com/@mckornfield/the-road-to-becoming-aws-certified-a89f7b6c2296"
 ---

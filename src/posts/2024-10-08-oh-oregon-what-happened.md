@@ -1,6 +1,5 @@
 ---
 title: "Oh Oregon, What Happened?"
-subtitle: "A reflection on a beautiful state, that’s let itself go"
 date: 2024-10-08
 medium_url: "https://medium.com/@mckornfield/oh-oregon-what-happened-d796b1bdbcfa"
 ---

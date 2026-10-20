@@ -1,6 +1,5 @@
 ---
 title: "Connecting to an EKS Cluster via Bastion Host, Over a SOCKS5 Proxy"
-subtitle: "Gluing some bits together to run an EKS cluster’s control plane privately"
 date: 2024-11-15
 medium_url: "https://medium.com/@mckornfield/connecting-to-an-eks-cluster-via-bastion-host-over-a-socks5-proxy-43df4da20948"
 ---

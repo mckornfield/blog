@@ -1,6 +1,5 @@
 ---
 title: "Ingress: Talking to Kubernetes Services from Outside the Cluster"
-subtitle: "🎶Hello from the outside🎶"
 date: 2022-11-16
 medium_url: "https://medium.com/@mckornfield/ingress-talking-to-kubernetes-services-from-outside-the-cluster-333ba1f7c665"
 ---

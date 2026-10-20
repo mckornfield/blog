@@ -1,6 +1,5 @@
 ---
 title: "Turning Off Copilot was a Good Idea"
-subtitle: "And why you should probably turn it off too"
 date: 2024-09-30
 medium_url: "https://medium.com/@mckornfield/turning-off-copilot-was-a-good-idea-9f54e34dcbb0"
 ---

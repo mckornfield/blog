@@ -1,6 +1,5 @@
 ---
 title: "Should We Pay Open Source Developers?"
-subtitle: "Or does that defeat the point of the whole thing?"
 date: 2023-02-15
 medium_url: "https://medium.com/@mckornfield/should-we-pay-open-source-developers-8c4ab57d7ee0"
 ---

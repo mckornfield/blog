@@ -1,6 +1,5 @@
 ---
 title: "If Things Are Stuck, but Nothing’s Hot, It’s Probably Locks"
-subtitle: "Locking is one of the necessary evils of the software world. I’ll talk through what it means for things to be “stuck”, “hot” and where…"
 date: 2023-03-29
 medium_url: "https://medium.com/@mckornfield/if-things-are-stuck-but-nothings-hot-it-s-probably-locks-4178b52b0d0"
 ---

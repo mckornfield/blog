@@ -1,6 +1,5 @@
 ---
 title: "Bernie Madoff Was Not a Monster"
-subtitle: "But the system that produced him is"
 date: 2023-01-31
 medium_url: "https://medium.com/@mckornfield/bernie-madoff-was-not-a-monster-6076f86dc076"
 ---

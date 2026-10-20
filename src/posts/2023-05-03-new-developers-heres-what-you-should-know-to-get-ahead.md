@@ -1,6 +1,5 @@
 ---
 title: "New Developers, Here’s What You Should Know to Get Ahead"
-subtitle: "In the time of layoffs, the better developer wins"
 date: 2023-05-03
 medium_url: "https://medium.com/@mckornfield/new-developers-heres-what-you-should-know-to-get-ahead-1498a2cf59c0"
 ---

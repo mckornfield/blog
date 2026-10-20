@@ -1,6 +1,5 @@
 ---
 title: "Not Owning Where You Live Costs You Dearly"
-subtitle: "$1,000,000 over 30 years? At least…"
 date: 2023-04-18
 medium_url: "https://medium.com/@mckornfield/not-owning-where-you-live-costs-you-dearly-3ca344f4ff3a"
 ---

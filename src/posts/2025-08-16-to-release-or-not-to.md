@@ -1,6 +1,6 @@
 ---
 title: "To Release… or Not To"
-subtitle: "A question of what, not when"
+subtitle: "A question of what, not when"
 date: 2025-08-16
 medium_url: "https://medium.com/@mckornfield/to-release-or-not-to-a1c37580607b"
 ---

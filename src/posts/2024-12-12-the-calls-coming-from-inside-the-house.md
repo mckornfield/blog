@@ -1,6 +1,5 @@
 ---
 title: "The Call’s Coming from Inside the House"
-subtitle: "We have met the enemy, and they liked our instagram post"
 date: 2024-12-12
 medium_url: "https://medium.com/@mckornfield/the-calls-coming-from-inside-the-house-156779c8ba86"
 ---

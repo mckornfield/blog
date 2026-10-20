@@ -1,6 +1,5 @@
 ---
 title: "The Good Enough Software Engineer"
-subtitle: "Don’t waste time on things that no one uses, or wants to use"
 date: 2024-10-04
 medium_url: "https://medium.com/@mckornfield/the-good-enough-software-engineer-abd32fa6622c"
 ---

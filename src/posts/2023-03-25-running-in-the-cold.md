@@ -1,6 +1,5 @@
 ---
 title: "Running in the Cold"
-subtitle: "I was running outside the other day and was reminded of one of my first serious runs I did back in college."
 date: 2023-03-25
 medium_url: "https://medium.com/@mckornfield/running-in-the-cold-c7113979df53"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Stephen King’s Writing Exercise"
-subtitle: "A bit of a detour from what I normally write"
 date: 2025-02-10
 medium_url: "https://medium.com/@mckornfield/stephen-kings-writing-exercise-5f0e6d5c4d00"
 ---

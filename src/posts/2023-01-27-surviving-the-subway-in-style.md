@@ -1,6 +1,5 @@
 ---
 title: "Surviving the Subway in Style"
-subtitle: "How to deal with the crazies, the homeless, and the guy dropping his new album"
 date: 2023-01-27
 medium_url: "https://medium.com/@mckornfield/surviving-the-subway-in-style-44d7e3e492ea"
 ---

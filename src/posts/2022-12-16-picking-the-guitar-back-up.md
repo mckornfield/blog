@@ -1,6 +1,5 @@
 ---
 title: "Picking the Guitar Back Up"
-subtitle: "My mostly off, and most recently on again journey with the guitar"
 date: 2022-12-16
 medium_url: "https://medium.com/@mckornfield/picking-the-guitar-back-up-fece8cf281f"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Don’t Be a Beetle on a Glass Bottle"
-subtitle: "Dating/life advice to my younger self"
+subtitle: "Dating/life advice to my younger self"
 date: 2026-05-13
 medium_url: "https://medium.com/@mckornfield/dont-be-a-beetle-on-a-glass-bottle-31ec4de4722a"
 ---

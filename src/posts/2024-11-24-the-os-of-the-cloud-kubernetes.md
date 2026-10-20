@@ -1,6 +1,5 @@
 ---
 title: "The OS of the Cloud: Kubernetes"
-subtitle: "And why other deployment paradigms aren’t"
 date: 2024-11-24
 medium_url: "https://medium.com/@mckornfield/the-os-of-the-cloud-kubernetes-c5eaa55c3c54"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "South of Paradise: Chapter 7"
-subtitle: "7- Cleansing"
 date: 2022-10-05
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-7-d8f925431114"
 ---

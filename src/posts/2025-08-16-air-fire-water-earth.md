@@ -1,6 +1,5 @@
 ---
 title: "Air, Fire, Water, Earth"
-subtitle: "Maybe the ancients weren’t so dumb"
 date: 2025-08-16
 medium_url: "https://medium.com/@mckornfield/air-fire-water-earth-03c8d0ca04f4"
 ---

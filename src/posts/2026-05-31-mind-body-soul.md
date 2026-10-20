@@ -1,6 +1,6 @@
 ---
 title: "Mind, Body, Soul"
-subtitle: "Thinking about who I am through my parents"
+subtitle: "Thinking about who I am through my parents"
 date: 2026-05-31
 medium_url: "https://medium.com/@mckornfield/mind-body-soul-a66dfa1692fb"
 ---

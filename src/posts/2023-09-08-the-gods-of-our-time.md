@@ -1,6 +1,5 @@
 ---
 title: "The Gods of Our Time"
-subtitle: "Some ruminating on what fills the role of religion these days"
 date: 2023-09-08
 medium_url: "https://medium.com/@mckornfield/the-gods-of-our-time-b621ae3cdf9d"
 ---

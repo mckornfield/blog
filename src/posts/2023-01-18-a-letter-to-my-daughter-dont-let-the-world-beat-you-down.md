@@ -1,6 +1,5 @@
 ---
 title: "A Letter to my Daughter: Don’t Let the World Beat You Down"
-subtitle: "Say “no” to the people who want to use you"
 date: 2023-01-18
 medium_url: "https://medium.com/@mckornfield/a-letter-to-my-daughter-dont-let-the-world-beat-you-down-26d8d930385f"
 ---

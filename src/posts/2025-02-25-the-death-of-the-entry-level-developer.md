@@ -1,6 +1,5 @@
 ---
 title: "The Death of the Entry Level Developer"
-subtitle: "Algorithms and data structures aren’t going to cut it"
 date: 2025-02-25
 medium_url: "https://medium.com/@mckornfield/the-death-of-the-entry-level-developer-747523fec47b"
 ---

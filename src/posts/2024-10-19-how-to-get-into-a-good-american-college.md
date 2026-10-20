@@ -1,6 +1,5 @@
 ---
 title: "How to Get Into a Good American College"
-subtitle: "Do More, Do Less, And Do Something Exceptional"
 date: 2024-10-19
 medium_url: "https://medium.com/@mckornfield/how-to-get-into-a-good-american-college-443bb57c7c94"
 ---

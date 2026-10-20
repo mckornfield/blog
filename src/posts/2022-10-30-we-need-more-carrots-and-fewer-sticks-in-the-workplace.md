@@ -1,6 +1,5 @@
 ---
 title: "We Need More Carrots and Fewer Sticks in the Workplace"
-subtitle: "Carrots help you see in the dark (Vitamin A!), but also see the light ahead."
 date: 2022-10-30
 medium_url: "https://medium.com/@mckornfield/we-need-more-carrots-and-fewer-sticks-in-the-workplace-fdc515561c1f"
 ---

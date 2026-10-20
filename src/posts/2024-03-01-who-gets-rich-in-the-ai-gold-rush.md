@@ -1,6 +1,5 @@
 ---
 title: "Who Gets Rich in the AI Gold Rush?"
-subtitle: "The people who find the gold, or who help find it?"
 date: 2024-03-01
 medium_url: "https://medium.com/@mckornfield/who-gets-rich-in-the-ai-gold-rush-aab25e92e93e"
 ---

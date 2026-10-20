@@ -1,6 +1,6 @@
 ---
 title: "We just need to ban this sh*t"
-subtitle: "And actually enforce it"
+subtitle: "And actually enforce it"
 date: 2026-10-12
 medium_url: "https://medium.com/@mckornfield/we-just-need-to-ban-this-sh-t-cabe0c4bb9f2"
 ---

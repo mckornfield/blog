@@ -1,6 +1,5 @@
 ---
 title: "My Second Year at a Startup"
-subtitle: "It’s been two years? Jeez"
 date: 2025-02-03
 medium_url: "https://medium.com/@mckornfield/my-second-year-at-a-startup-6286b4fb53ff"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Cheating at Wordscapes, with Python"
-subtitle: "Why know words when you can look for them in a text file?"
 date: 2022-10-24
 medium_url: "https://medium.com/@mckornfield/cheating-at-wordscapes-with-python-40b3ec3f453b"
 ---

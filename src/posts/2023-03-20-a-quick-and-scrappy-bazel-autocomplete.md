@@ -1,6 +1,5 @@
 ---
 title: "A Quick and Scrappy Bazel Autocomplete"
-subtitle: "A simple autocomplete to find available bazel commands."
 date: 2023-03-20
 medium_url: "https://medium.com/@mckornfield/a-quick-and-scrappy-bazel-autocomplete-bd72630d0d3a"
 ---

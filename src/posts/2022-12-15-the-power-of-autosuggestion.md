@@ -1,6 +1,5 @@
 ---
 title: "The Power of Autosuggestion"
-subtitle: "It’s probably not the kind you’re thinking of"
 date: 2022-12-15
 medium_url: "https://medium.com/@mckornfield/the-power-of-autosuggestion-b3bdbcca9f18"
 ---

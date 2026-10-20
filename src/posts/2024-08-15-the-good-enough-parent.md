@@ -1,6 +1,5 @@
 ---
 title: "The Good Enough Parent"
-subtitle: "No sleep, it’s boring, but you’re still in it,"
 date: 2024-08-15
 medium_url: "https://medium.com/@mckornfield/the-good-enough-parent-952daa545ac3"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Do I Build, Borrow, or Buy"
-subtitle: "Every software developer’s dilemma, and when each option makes sense"
 date: 2023-02-21
 medium_url: "https://medium.com/@mckornfield/do-i-build-borrow-or-buy-d74b42ce3e62"
 ---

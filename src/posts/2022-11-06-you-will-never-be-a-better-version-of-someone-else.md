@@ -1,6 +1,5 @@
 ---
 title: "You Will Never Be a Better Version of Someone Else"
-subtitle: "Put Envy On Notice, Be the Best Version of Yourself"
 date: 2022-11-06
 medium_url: "https://medium.com/@mckornfield/you-will-never-be-a-better-version-of-someone-else-be71e8f2c46d"
 ---
