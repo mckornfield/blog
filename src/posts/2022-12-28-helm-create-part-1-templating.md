@@ -12,7 +12,7 @@ A guide to the output of running `helm create` with a focus on the metadata and 
 
 ### Prerequisites
 
-If you’re new to `helm` , it’s one of the main ways people package, template and install applications in [Kubernetes](https://medium.com/@mckornfield/what-the-heck-is-this-kubernetes-thing-7d66f4aa0812).
+If you’re new to `helm` , it’s one of the main ways people package, template and install applications in [Kubernetes](/posts/what-is-kubernetes/).
 
 The [install instructions](https://helm.sh/docs/intro/install/) page boils down to:
 
@@ -24,7 +24,7 @@ The [install instructions](https://helm.sh/docs/intro/install/) page boils down 
 
 A `chart` is the name of any package that helm can create, install, depend on, or release. Charts are the building blocks of the `helm` world.
 
-`helm create my-first-chart` will make your first chart. We’ll go through the items made by this command one by one. The ones without an hourglass we’ll go over in [Part 2](https://mckornfield.medium.com/helm-create-part-2-resources-4e73f650fbd0).
+`helm create my-first-chart` will make your first chart. We’ll go through the items made by this command one by one. The ones without an hourglass we’ll go over in [Part 2](/posts/helm-create-part-2-resources/).
 
 ```ruby
 $ tree -a .
@@ -83,7 +83,7 @@ This empty folder will hold any dependencies you create within the Charts.yaml f
 
 If this is your first time looking at helm charts, you’re probably wondering “what the heck is up with all the `{{ .Values.stuff }}` . Well I mentioned the word *template* earlier, and that is a big part of what `helm` gives you.
 
-In the Kubernetes world, everything is YAML (or JSON) files that represent resources. If you want to introduce options to change from a default set of files (instead of using something like the [Kubernetes client](https://medium.com/@mckornfield/getting-started-with-the-kubernetes-python-client-ac48199537a9)), you can:
+In the Kubernetes world, everything is YAML (or JSON) files that represent resources. If you want to introduce options to change from a default set of files (instead of using something like the [Kubernetes client](/posts/getting-started-with-the-kubernetes-python-client/)), you can:
 
 - Template using something like `helm`
 - Patch files using something like `kustomize`
@@ -118,4 +118,4 @@ Certain pieces are commented out in here for reference, like the `resources` , 
 
 That’s all for now!
 
-In Part 2 we’ll go over all the resources at a high level and the test file. [Click here to read on.](https://mckornfield.medium.com/helm-create-part-2-resources-4e73f650fbd0)
+In Part 2 we’ll go over all the resources at a high level and the test file. [Click here to read on.](/posts/helm-create-part-2-resources/)

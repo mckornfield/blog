@@ -65,7 +65,7 @@ Lastly, if you run into issues where multiple clusters use the same local addres
 One thing the article completely glosses over is: how do you connect to your Kubernetes cluster to install the Cloudflare Tunnel, if you haven’t connected before? I’ll list out the options, starting with what I did:
 
 1. Simply start with a public control plane. The threat level is relatively low to your cluster if there’s nothing in it, and once you get things working, you can switch the cluster to be completely private.
-2. Use a bastion host (i.e. a machine connected to the cluster’s private network), you could also install the Cloudflare Tunnel on this machine, and then install it in the cluster using the host’s, or use a cloud specific tool like [SSM to tunnel to the instance](https://mckornfield.medium.com/connecting-to-an-eks-cluster-via-bastion-host-over-a-socks5-proxy-43df4da20948)
+2. Use a bastion host (i.e. a machine connected to the cluster’s private network), you could also install the Cloudflare Tunnel on this machine, and then install it in the cluster using the host’s, or use a cloud specific tool like [SSM to tunnel to the instance](/posts/connecting-to-an-eks-cluster-via-bastion-host-over-a-socks5/)
 3. A VPN? (But that kind of defeats the whole point of using WARP doesn’t it…)
 
 ### Summary

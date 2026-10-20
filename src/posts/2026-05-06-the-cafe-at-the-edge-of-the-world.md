@@ -21,7 +21,7 @@ My current answer, be it what it is, is:
 
 > “I’m here to try and help people and things that have been passed over.”
 
-This can mean at my job, tools and systems that are falling apart or completely ignored. In my personal life it’s meant helping friends, my partner and taking my daughter out of [cryo-freeze](https://mckornfield.medium.com/surrogacy-as-if-childbirth-werent-already-a-wild-ride-416ef73d8e2c). It’s also meant taking care of myself physically, since I’d passed over myself when I was younger.
+This can mean at my job, tools and systems that are falling apart or completely ignored. In my personal life it’s meant helping friends, my partner and taking my daughter out of [cryo-freeze](/posts/surrogacy-as-if-childbirth-werent-already-a-wild-ride/). It’s also meant taking care of myself physically, since I’d passed over myself when I was younger.
 
 I think the world is full of things that get hype and attention. The world doesn’t necessarily need more Taylor Swift fans. But it could use a bit more care and attention to those of us who have been passed over, but still have something to offer.
 

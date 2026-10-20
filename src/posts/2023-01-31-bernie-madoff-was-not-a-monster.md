@@ -14,7 +14,7 @@ I recently watched the [Bernie Madoff documentary on Netflix](https://www.netfli
 
 The title of the piece is a bit tongue in cheek (once you watch the documentary), but it’s also something than many people think and believe: Bernie Madoff was a monster that took advantage of poor, unsuspecting investors. He duped the SEC and thousands of people who poured 19 billion dollars into his “hedge fund.”
 
-I felt little sympathy for the people harmed in the documentary. Wall Street is not your friend. [It’s a cut-throat, make money or lose it world](https://medium.com/r?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQqjQxs9l5fg).
+I felt little sympathy for the people harmed in the documentary. Wall Street is not your friend. [It’s a cut-throat, make money or lose it world](https://www.youtube.com/watch?v=QqjQxs9l5fg).
 
 But the documentary reveals some flaws in the system, flaws that won’t be solved by more or less regulation, or better ethics. The biggest flaw I think it points out is…
 

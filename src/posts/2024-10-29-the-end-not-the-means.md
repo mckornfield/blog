@@ -22,7 +22,7 @@ But things could have gone differently for me.
 
 Most graphs will show trends going the wrong way for men.
 
-We have increases in: [living off your parents](https://www.statista.com/statistics/595249/millennials-live-in-their-parents-home-gender/), [pornography, video games](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c), [loneliness](https://kslnewsradio.com/2092391/studies-show-men-are-experience-high-rates-of-loneliness/) and [suicide](https://aibm.org/research/male-suicide/). These graphs are going up and up.
+We have increases in: [living off your parents](https://www.statista.com/statistics/595249/millennials-live-in-their-parents-home-gender/), [pornography, video games](/posts/the-turning-inward-of-the-modern-man/), [loneliness](https://kslnewsradio.com/2092391/studies-show-men-are-experience-high-rates-of-loneliness/) and [suicide](https://aibm.org/research/male-suicide/). These graphs are going up and up.
 
 The only word to describe these trends is: F\*\*k.
 
@@ -103,7 +103,7 @@ The greatest test of being a parent/dad/man so far have been when I feel crummy,
 
 When you feel like you have nothing to give, you still have to give.
 
-There are activities that I avoided that can help teach you about this level of sacrifice as a boy (organized sports, rough-housing, etc.), but I think it’s never too late to learn. I’m putting myself through my paces with these [Spartan races as a sort of penance](https://mckornfield.medium.com/running-your-first-spartan-race-84eb7b2f283f).
+There are activities that I avoided that can help teach you about this level of sacrifice as a boy (organized sports, rough-housing, etc.), but I think it’s never too late to learn. I’m putting myself through my paces with these [Spartan races as a sort of penance](/posts/running-your-first-spartan-race/).
 
 ### How to Give When No One Wants You
 

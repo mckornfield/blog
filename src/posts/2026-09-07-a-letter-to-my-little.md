@@ -23,7 +23,7 @@ There will never be anything to right the wrongs of your life that will appear o
 
 Please do not let them.
 
-[My own dad is a taker](https://mckornfield.medium.com/a-letter-to-my-dad-be06a7f609d8), which does not make him by any means unique among parents. To the contrary, I think most people are unfortunately selfish. Either by having a brain that cannot conceive of the suffering of others, or just by putting others needs *after* their own.
+[My own dad is a taker](/posts/a-letter-to-my-dad/), which does not make him by any means unique among parents. To the contrary, I think most people are unfortunately selfish. Either by having a brain that cannot conceive of the suffering of others, or just by putting others needs *after* their own.
 
 The world is full of people who put on their own oxygen mask on, then gawk at you as you struggle to put your own. Between the onslaught of screens, promises of fortunes for no effort, absent fatherhood, and the reality of ladder pulls by previous selfish generations, being young right now f — king sucks.
 
@@ -65,7 +65,7 @@ Don’t let that deter you.
 
 Don’t fall into the trap of filling the hole with things that make you more of a consumer and continuing to corrupt yourself.
 
-Fill it with writing, singing, playing guitar, filming, editing, creating and expressing yourself. Fill it with getting better and better. [Make yourself](https://mckornfield.medium.com/make-yourself-9e54dd831d80).
+Fill it with writing, singing, playing guitar, filming, editing, creating and expressing yourself. Fill it with getting better and better. [Make yourself](/posts/make-yourself/).
 
 You got this.
 

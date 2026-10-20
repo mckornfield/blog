@@ -10,7 +10,7 @@ All roads lead to midnight debugging 😴💻
 
 *Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
-As someone with a non-coding education background (editing C files in Nano in college 👎) I have a few [contrarian opinions](https://medium.com/@mckornfield/good-software-engineers-are-good-at-looking-stuff-up-52a60b238d00) on traditional university software education.
+As someone with a non-coding education background (editing C files in Nano in college 👎) I have a few [contrarian opinions](/posts/good-software-engineers-are-good-at-looking-stuff-up/) on traditional university software education.
 
 I found all three of my Computer Science classes *boring*. But a Comp Sci degree is [one of the most surefire paths](https://survey.stackoverflow.co/2022/#developer-profile-education) to a developer role. But before debating on the path to take, first…
 

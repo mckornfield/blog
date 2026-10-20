@@ -12,7 +12,7 @@ In the time of layoffs, the better developer wins
 
 10 years ago I was in school studying physics. I was decent enough with a computer, but software development was a foreign concept to me. I took some Computer Science courses but they were very boring to me (to be fair, not the world’s best professor taught them).
 
-Because I took a path through physics, then consulting, and then learning on the job as a Product Engineer, my path was [rocky and self-paved](https://mckornfield.medium.com/a-few-ways-to-become-a-software-developer-b0677f140caf).
+Because I took a path through physics, then consulting, and then learning on the job as a Product Engineer, my path was [rocky and self-paved](/posts/a-few-ways-to-become-a-software-developer/).
 
 That being said, I learned from some great people at Appian and Walmart on how to be a good software developer, and I don’t know that I would have gotten all of that from a Comp Sci degree. I thought I’d try to boil down what I think makes a great developer down into the people side and the technical side.
 

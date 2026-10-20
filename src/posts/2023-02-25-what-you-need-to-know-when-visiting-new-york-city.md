@@ -10,7 +10,7 @@ A guide to the “Big Apple” for those not used to big cities
 
 *Photo by [Florian Wehde](https://unsplash.com/@florianwehde?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
-New York City is the largest city by population in the US. It’s got tons of tall buildings, world class expensive restaurants, and one of the [best subway systems](https://medium.com/@mckornfield/surviving-the-subway-in-style-44d7e3e492ea) you can use.
+New York City is the largest city by population in the US. It’s got tons of tall buildings, world class expensive restaurants, and one of the [best subway systems](/posts/surviving-the-subway-in-style/) you can use.
 
 That said, it’s also a city full of people that are going to be total jerks to you because they’re tired of all the tourists clogging up the street. So here’s some advice for how to survive in NYC, as someone who lived around it while growing up.
 

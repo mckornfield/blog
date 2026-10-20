@@ -14,7 +14,7 @@ Bad things are going to happen, might as well be prepared
 
 Part of running software systems is dealing with and mitigating failures. A piece of software that runs completely fine, without any changes, will still encounter failures if it operates in the wild, i.e. some other server admin installs it not quite right, or there’s a hiccup with one of the cloud services you use.But most of the failures you’ll experience are a result of some sort of change in SOME part of the system system, whether in one that you own or write, or one that you use.
 
-But people who use your software don’t care WHY it doesn’t work, they only care how quickly you can get it working again. They want you to live up to [the availability targets that you promise](https://medium.com/@mckornfield/explain-like-im-5-sre-c3aa483e8dae).
+But people who use your software don’t care WHY it doesn’t work, they only care how quickly you can get it working again. They want you to live up to [the availability targets that you promise](/posts/explain-like-im-5-sre/).
 
 Assuming things are going to go wrong, what are some of the tools you can use to try and stay within your error budget? Lets start with:
 

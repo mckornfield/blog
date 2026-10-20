@@ -22,7 +22,7 @@ And how it is no nobler than the sacrifice of the past
 
 Human sacrifice.
 
-When I visited the Yucatán in December, our guide for Uxmal (Mayan ruins near Mérida) talked about how the Mayans sacrificed people to the gods. These sacrifices would be deposited in specific sites, notably [beautiful clear water](https://mckornfield.medium.com/the-scars-of-the-yucat%C3%A1n-1ca1968a0ea8) sinkholes named Cenotes.
+When I visited the Yucatán in December, our guide for Uxmal (Mayan ruins near Mérida) talked about how the Mayans sacrificed people to the gods. These sacrifices would be deposited in specific sites, notably [beautiful clear water](/posts/the-scars-of-the-yucatan/) sinkholes named Cenotes.
 
 When I was in school, I learned of the other major empire in Central America, *los aztecas*. The Aztecs were the great empire spanning southern Mexico that Cortés toppled in the 1520’s. In class we talked about how the Aztecs would sacrifice people using an obsidian blade, [pulling the beating heart out](https://en.wikipedia.org/wiki/Human_sacrifice_in_Aztec_culture#:~:text=When%20the%20Aztecs%20sacrificed%20people,honor%20to%20the%20Sun%2DGod.).
 
@@ -110,4 +110,4 @@ Humans are still sacrificed today, just not in as visceral a manner. In a way th
 
 At least the Mesoamericans had the guts to swing the sword.
 
-I’d rather die a visceral sacrifice than be [pushed around a system that could care less about me as a patient](https://mckornfield.medium.com/maybe-we-shouldnt-aa8b3db840fe).
+I’d rather die a visceral sacrifice than be [pushed around a system that could care less about me as a patient](/posts/maybe-we-shouldn-t/).

@@ -120,4 +120,4 @@ The true power of this tool is that you abstract away “where things are” so 
 
 ### What tools do folks use with Kubernetes?
 
-[See my article about tools](https://mckornfield.medium.com/the-kubernetes-tools-39a730a7fceb).
+[See my article about tools](/posts/the-kubernetes-tools/).

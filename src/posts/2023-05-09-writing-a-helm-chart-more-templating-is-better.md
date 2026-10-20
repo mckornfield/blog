@@ -60,7 +60,7 @@ Some great things to default are:
 - Resources
 - Names of certain generated but replaceable resources, like a ServiceAccount
 
-You can default these values using the `values.yaml` as I mentioned, or one of those mysterious `_helpers.tpl` files ([I’ve written about them elsewhere](https://mckornfield.medium.com/helm-create-part-1-templating-9c4d9baa2e4e)).
+You can default these values using the `values.yaml` as I mentioned, or one of those mysterious `_helpers.tpl` files ([I’ve written about them elsewhere](/posts/helm-create-part-1-templating/)).
 
 Think they’ll never change the NodeSelector for your chart, or the Tolerations for it? Think again: people can have all sorts of crazy cluster setups and even your one simple chart will need all sorts of customizations to fit a square peg in a round hole.
 

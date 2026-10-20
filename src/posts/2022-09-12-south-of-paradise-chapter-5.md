@@ -4,7 +4,7 @@ date: 2022-09-12
 medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-4-58b0386459db"
 ---
 
-[Table of Contents](https://mckornfield.medium.com/south-of-paradise-table-of-contents-7493d100bfb3)
+[Table of Contents](/posts/south-of-paradise-table-of-contents/)
 
 ![Photo by Marek Piwnicki on Unsplash](/img/south-of-paradise-chapter-5/0_hAVujieqjt0AVoju.jpg)
 

@@ -10,7 +10,7 @@ Don’t waste time on things that no one uses, or wants to use
 
 *Photo by [Ralf Knüfer](https://unsplash.com/@textstation?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) (Those poor, unwanted boats)*
 
-In my limited time working in software , I’ve realized that taking a step back is usually more useful than coding up an algorithm. These days you can just use [ChatGPT or Claude for those algorithm problems](https://medium.com/r?url=https%3A%2F%2Fhackernoon.com%2Ftesting-llms-on-solving-leetcode-problems), so people who work with software should be used for something more, right?
+In my limited time working in software , I’ve realized that taking a step back is usually more useful than coding up an algorithm. These days you can just use [ChatGPT or Claude for those algorithm problems](https://hackernoon.com/testing-llms-on-solving-leetcode-problems), so people who work with software should be used for something more, right?
 
 One thing that we as people (currently) have over these LLMs are our value judgments, i.e. that someone will use the code we‘re writing, and that the code is *good enough* to accomplish whatever it is the person will use it for.
 

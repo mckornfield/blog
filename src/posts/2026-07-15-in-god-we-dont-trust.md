@@ -93,7 +93,7 @@ We must trust in our ability to seek to “do good” in the world, and ourselve
 
 Repairing doesn’t always mean fixing the things that happened in your life. Sometimes the repairing means doing good things for other people that are wrongs that don’t right your wrongs, but whose wrongs rhyme with yours.
 
-I grew up feeling like I never had the male role model for me. My dad, who was definitely like me ([and as I’ve gotten older we’ve gotten more alike](https://mckornfield.medium.com/mind-body-soul-a66dfa1692fb)) was not the role model I thought I needed, mostly because we didn’t share the same living space (yay divorce).
+I grew up feeling like I never had the male role model for me. My dad, who was definitely like me ([and as I’ve gotten older we’ve gotten more alike](/posts/mind-body-soul/)) was not the role model I thought I needed, mostly because we didn’t share the same living space (yay divorce).
 
 I had my step dad as more of a role model, but our interests weren’t always the same (darn genetics). I hope to give back to the world like my step dad gave me the opportunity to have a role model, volunteering with Big Brothers Big Sisters, and finding ways to be mentor or mentor-like for my cousins/nephews, and heck, my own daughter.
 

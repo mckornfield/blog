@@ -34,7 +34,7 @@ We don’t have the glamor of a soaring hawk in our ancestry, but we do have the
 
 I spent most of my childhood being sedentary. Movement was concentrated with fine motor movements to move video game characters and move numbers and letters on pages for school.
 
-After school I found solace in [being able to move my body](https://mckornfield.medium.com/paramore-virginia-running-it-consulting-d9342992f247). I felt a connection with the unbroken chain of ancestors who were *movers*. They might not have done much more than survive and create more movers, but by moving, they survived.
+After school I found solace in [being able to move my body](/posts/paramore-virginia-running-it-consulting/). I felt a connection with the unbroken chain of ancestors who were *movers*. They might not have done much more than survive and create more movers, but by moving, they survived.
 
 As I plod along to train for a race I have coming up, my body will protest (“why aren’t we on the couch with a bag of Cheetos?”).
 

@@ -60,7 +60,7 @@ Let’s take an example, Netflix.
 
 People use Netflix to watch content. It, like similar content distribution platforms such as Spotify, is among the best at it. My understanding from Matthew’s article and some of [ThePrimeagen’s explanations of his time](https://www.youtube.com/watch?v=AVnJB7xN-MU) there, is that the company has a strong emphasis on *working software*.
 
-Process and pedantry are low on the totem pole. If you look at the Mag7/Mag10, or any top software company in the world, they might have all sorts of [internal processes and ossification](https://mckornfield.medium.com/victims-of-our-own-success-dd3729dd599f), but they made it to where they were because of working software.
+Process and pedantry are low on the totem pole. If you look at the Mag7/Mag10, or any top software company in the world, they might have all sorts of [internal processes and ossification](/posts/victims-of-our-own-success/), but they made it to where they were because of working software.
 
 Let’s not pretend it’s for any other reason.
 

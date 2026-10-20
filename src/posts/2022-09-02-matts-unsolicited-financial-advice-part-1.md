@@ -183,4 +183,4 @@ Travel well or don’t travel at all. Also crazy people take the bus (I have tak
 
 Hopefully this unsolicited advice is useful. If not, let me know what you do differently!
 
-If you want any more unsolicited advice, [check out part two!](https://mckornfield.medium.com/matts-unsolicited-financial-advice-part-2-6a1e915b18cc)
+If you want any more unsolicited advice, [check out part two!](/posts/matts-unsolicited-financial-advice-part-2/)

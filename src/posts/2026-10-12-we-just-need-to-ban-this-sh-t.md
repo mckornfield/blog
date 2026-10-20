@@ -27,7 +27,7 @@ We need to ban this. Not to the point of “oh in Louisiana porn is illegal.” 
 
 It’s that we are unplugging men from the real world and plugging them into a fake one.
 
-I get it, men have needs, and the women won’t always be there (especially when they are young and awkward). Guess that means you got to get to work to [make yourself worthy](https://mckornfield.medium.com/be-worthy-5c7779acb201) huh?
+I get it, men have needs, and the women won’t always be there (especially when they are young and awkward). Guess that means you got to get to work to [make yourself worthy](/posts/be-worthy/) huh?
 
 Or you can instead spend your time on —
 

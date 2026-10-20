@@ -59,7 +59,7 @@ The fittest people you know do these high leverage things:
 - Fried/ fatty/ unhealthy foods once a week *max*
 - A form of contest/race to train for at a 3–6 months cadence OR a sport you play on a regular cadence
 
-Don’t bother counting or trying fad things. [Join a gym or get a workout app](https://medium.com/@mckornfield/running-your-first-spartan-race-84eb7b2f283f). Play a sport. But get sweating, and don’t eat crap.
+Don’t bother counting or trying fad things. [Join a gym or get a workout app](/posts/running-your-first-spartan-race/). Play a sport. But get sweating, and don’t eat crap.
 
 ### High and Low Leverage Activities in Software
 

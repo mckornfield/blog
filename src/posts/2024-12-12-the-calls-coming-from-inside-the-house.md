@@ -12,7 +12,7 @@ We have met the enemy, and they liked our instagram post
 
 ### “The Greatest Country in the World”
 
-The US has all the money it could ever want ([and keeps printing more](https://mckornfield.medium.com/mmt-broke-my-brain-but-is-it-real-bdb2e60ffde0)). It has the world’s largest and strongest military, backed by outsize spending.
+The US has all the money it could ever want ([and keeps printing more](/posts/mmt-broke-my-brain-but-is-it-real/)). It has the world’s largest and strongest military, backed by outsize spending.
 
 By this definition:
 
@@ -28,7 +28,7 @@ They’re using “we the people.”
 
 ### “The Enemy From Within”
 
-The fact that the man is going to be our next president is not really a shocker. He won once, and the [democrats really lost the plot](https://mckornfield.medium.com/the-2024-election-a-blameless-postmortem-67712e468b40) on this election.
+The fact that the man is going to be our next president is not really a shocker. He won once, and the [democrats really lost the plot](/posts/the-2024-election-a-blameless-postmortem/) on this election.
 
 What’s more depressing is the amount of division in our country has bubbled up to this man’s consciousness so that he’ll characterize the “[enemy from within](https://www.youtube.com/watch?v=BfSAOPPSYC8).” (Is he responsible for stoking that division? Yes.)
 

@@ -112,7 +112,7 @@ A cornerstone of a good college application is your essay. You’re going to wri
 
 Let’s just run a hypothetical for how it could have gone differently for me.
 
-[My brother has a pretty debilitating mental disorder](https://mckornfield.medium.com/my-brother-is-a-silent-mirror-of-me-72f37a16ba8f), being nonverbal and Autistic PDD-NOS (i.e., they have no freaking clue what he actually has). My mom said at one point to me: “you could help create a learning app that Mariana (his therapist) could work with you on.” At the time making an app seemed scary (gasp, writing code!), so I refused.
+[My brother has a pretty debilitating mental disorder](/posts/my-brother-is-a-silent-mirror-of-me/), being nonverbal and Autistic PDD-NOS (i.e., they have no freaking clue what he actually has). My mom said at one point to me: “you could help create a learning app that Mariana (his therapist) could work with you on.” At the time making an app seemed scary (gasp, writing code!), so I refused.
 
 But if I had written the app, what a way to package myself.
 

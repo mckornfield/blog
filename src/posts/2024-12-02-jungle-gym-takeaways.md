@@ -97,6 +97,6 @@ I’m saying “work hard, *and* keep your head up for a better opportunity.”
 
 If you’d like to read my experience moving around the jungle gym, feel free to here:
 
-[Welcome to the Jungle Gym](https://mckornfield.medium.com/welcome-to-the-jungle-gym-c2688da25f03)
+[Welcome to the Jungle Gym](/posts/welcome-to-the-jungle-gym/)
 
 Thanks for reading!

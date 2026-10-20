@@ -12,7 +12,7 @@ medium_url: "https://medium.com/@mckornfield/ingress-talking-to-kubernetes-servi
 
 ## What is Ingress?
 
-The [Kubernetes docs](https://kubernetes.io/docs/concepts/services-networking/ingress/) are pretty thorough, so I’ll just try to address what it is from a laymen's perspective. (If you don’t know what Kubernetes is, I did my best to explain it [here](https://medium.com/@mckornfield/what-the-heck-is-this-kubernetes-thing-7d66f4aa0812).)
+The [Kubernetes docs](https://kubernetes.io/docs/concepts/services-networking/ingress/) are pretty thorough, so I’ll just try to address what it is from a laymen's perspective. (If you don’t know what Kubernetes is, I did my best to explain it [here](/posts/what-is-kubernetes/).)
 
 For systems that communicate over the internet, there are two paths of communication: outward (egress) and inward (ingress). The reason that Kubernetes needs to be explicit about how things talk to it is that by default, Pods and Services can only be reached from within the cluster.
 

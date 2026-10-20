@@ -33,7 +33,7 @@ I interacted with my dad minimally through college, and one day after graduating
 
 Long story-short: my dad stole some money that was “meant for me.” My mom has always done well financially, so this wasn’t a big financial blow, but it made me irrationally angry: we have a crummy relationship, and you go ahead and do this?
 
-This was the second time he’d done *this*; I was just an adult now so my mom got the tax bill the first time. He’d taken my brother’s custodial money as well (he’s a [non-verbal adult](https://mckornfield.medium.com/my-brother-is-a-silent-mirror-of-me-72f37a16ba8f) so he doesn’t need college, but he uses *a lot* of dollars worth of services).
+This was the second time he’d done *this*; I was just an adult now so my mom got the tax bill the first time. He’d taken my brother’s custodial money as well (he’s a [non-verbal adult](/posts/my-brother-is-a-silent-mirror-of-me/) so he doesn’t need college, but he uses *a lot* of dollars worth of services).
 
 When I talked to my dad on the phone about it the call ended with “what are you going to do, throw your old man in jail?”
 

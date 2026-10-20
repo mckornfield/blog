@@ -8,7 +8,7 @@ medium_url: "https://medium.com/@mckornfield/south-of-paradise-chapter-3-part-2-
 
 *Photo by [Yannick Menard](https://unsplash.com/@yannickmenard?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
-### Continuing where we left off in [part one](https://mckornfield.medium.com/south-of-paradise-chapter-3-part-1-3763ae157eec?source=user_profile---------0----------------------------)…
+### Continuing where we left off in [part one](/posts/south-of-paradise-chapter-3-part-1/)…
 
 *We were extra careful about leaving a trail, taking careful steps to avoid twigs and thick pieces of underbrush, and doing our best to walk on bare ground. Wanda agreed that avoidance was our best plan. Distance is the key to survival, the Vulture’s mantra. We dearly hoped our overseer would deal with the Carrion, but even he/she might avoid a fight when it came to three roamers. We could still hear the leg bones cracking in between their jaws as we moved through the moonlight.*
 

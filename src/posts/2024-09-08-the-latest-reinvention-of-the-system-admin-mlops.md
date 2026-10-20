@@ -79,7 +79,7 @@ But what makes this space so full of opportunity is that even getting something 
 
 So with the list of differences above, there comes the standard things that all DevOps folks should carry with them, i.e.
 
-- [SRE best practices](https://mckornfield.medium.com/explain-like-im-5-sre-c3aa483e8dae) (avoiding toil + automating)
+- [SRE best practices](/posts/explain-like-im-5-sre/) (avoiding toil + automating)
 - Observability strategies
 - CloudOps Excellence
 - Some Python/Go skills (or \*gasp\* Java)

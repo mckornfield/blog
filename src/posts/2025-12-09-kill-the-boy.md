@@ -17,7 +17,7 @@ I want to speak a bit to what that meant for me, and I think for other boys who 
 
 ### The Internet is Neverland
 
-I spent my childhood and early adulthood online quite a bit. And in the way that I think a lot of boys do, which is engaging with electronic content, some of it [very predatory](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c).
+I spent my childhood and early adulthood online quite a bit. And in the way that I think a lot of boys do, which is engaging with electronic content, some of it [very predatory](/posts/the-turning-inward-of-the-modern-man/).
 
 When I graduated college and started working, I *still* spent a lot of my free time playing games or watching YouTube. I’m not a very social person, but given that I socialized a decent amount at work, the energy I had left I largely spent online.
 
@@ -47,7 +47,7 @@ All of these acts take time and share a few traits:
 - Dedicated time commitments
 - Diligence
 
-Early in my time working I switched from a [tech consultant to a product engineer](https://mckornfield.medium.com/paramore-virginia-running-it-consulting-d9342992f247), which meant I put a lot of hours to learn things I knew very little about, in order to catch up to my more appropriately educated peers.
+Early in my time working I switched from a [tech consultant to a product engineer](/posts/paramore-virginia-running-it-consulting/), which meant I put a lot of hours to learn things I knew very little about, in order to catch up to my more appropriately educated peers.
 
 My time for gaming and any other chronically online activities went way down.
 
@@ -89,7 +89,7 @@ That means holding up your half of the sky, both in the housework and chores as 
 
 The final blow to being a boy is, well… kids themselves. While you get to be part of the fun in their lives, [you set boundaries and safety](https://www.youtube.com/watch?v=OmhvFzqX_Ic) for them so they can both learn *and* survive.
 
-It’s fun to be able to be a kid’s playmate, but first and foremost you’re [their protector and provider](https://mckornfield.medium.com/mothers-daughters-sisters-or-meat-2c199c602642). Boys don’t have to worry about these sorts of things, but men do.
+It’s fun to be able to be a kid’s playmate, but first and foremost you’re [their protector and provider](/posts/mothers-daughters-sisters-or-meat/). Boys don’t have to worry about these sorts of things, but men do.
 
 ### Escaping Neverland
 

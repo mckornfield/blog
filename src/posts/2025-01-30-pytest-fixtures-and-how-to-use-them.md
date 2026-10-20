@@ -29,7 +29,7 @@ Let’s jump into a couple examples
 
 ### 1. Reducing copy paste in tests
 
-For reference, this code will refer to my [patching unit testing article](https://mckornfield.medium.com/a-short-guide-to-mocking-in-python-unit-testing-a07875c2a773)
+For reference, this code will refer to my [patching unit testing article](/posts/a-short-guide-to-mocking-in-python-unit-testing/)
 
 Let’s say we have two copy pasta style tests like the following:
 

@@ -21,7 +21,7 @@ But at one point, we were talking about incomes and children. The term DINK (dua
 
 As most of them were LGBTQ, children were either not on the radar, or something to consider among a choice of adoption, or IVF/surrogacy.
 
-Non-traditional, expensive paths to kids ([one of which I’ve walked down](https://mckornfield.medium.com/surrogacy-as-if-childbirth-werent-already-a-wild-ride-416ef73d8e2c)). When talking about their incomes and the enjoyment they could get out of life, I made the passing comment “kids are what it’s all for.” I caught a bit of a nod from the parents, both of whom work in education and had 3 kids.
+Non-traditional, expensive paths to kids ([one of which I’ve walked down](/posts/surrogacy-as-if-childbirth-werent-already-a-wild-ride/)). When talking about their incomes and the enjoyment they could get out of life, I made the passing comment “kids are what it’s all for.” I caught a bit of a nod from the parents, both of whom work in education and had 3 kids.
 
 This is where I feel it bears discussing the wrestling that I’ve seen over my life with gender identity, and the wrestles I’ve had with my own identity, as someone who should (or shouldn’t) procreate.
 

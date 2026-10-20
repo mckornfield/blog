@@ -26,7 +26,7 @@ To understand why Kubernetes is the OS of choice for the cloud, it might help to
 
 ### But What About Other FaaS and Managed Container Orchestration?
 
-I’ve written before about why folks should prefer [Kubernetes over a tool like AWS Lambda](https://mckornfield.medium.com/why-choose-kubernetes-over-serverless-2aabd3ed56f4), but I haven’t addressed something like ECS, or any of the other myriad runtimes that you can use with AWS (like Beanstalk or just plain EC2).
+I’ve written before about why folks should prefer [Kubernetes over a tool like AWS Lambda](/posts/why-choose-kubernetes-over-serverless/), but I haven’t addressed something like ECS, or any of the other myriad runtimes that you can use with AWS (like Beanstalk or just plain EC2).
 
 The biggest issue I have seen with any cloud specific runtime is a lack of portability. Let’s look at each in short:
 

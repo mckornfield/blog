@@ -73,7 +73,7 @@ That being said, this isn’t an article saying “the first category of things 
 
 I wrote about this before, so I won’t repeat everything, but the cost of oxytocin and endorphins are *work* and *grit.* But it is worth the cost.
 
-[A Good Life Embraces Friction](https://mckornfield.medium.com/a-good-life-embraces-friction-3e7376c475f9)
+[A Good Life Embraces Friction](/posts/a-good-life-embraces-friction/)
 
 Letting the lizard get what it wants makes a person who doesn’t ultimately move forward, instead letting video games and social media steal their time and attention, pornography and food steal their ability to enjoy the world properly, and gambling to piss away their money.
 

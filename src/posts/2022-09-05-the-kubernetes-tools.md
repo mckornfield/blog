@@ -4,7 +4,7 @@ date: 2022-09-05
 medium_url: "https://medium.com/@mckornfield/the-kubernetes-tools-39a730a7fceb"
 ---
 
-If you don’t know what Kubernetes is, see [my other article](https://mckornfield.medium.com/what-the-heck-is-this-kubernetes-thing-7d66f4aa0812).
+If you don’t know what Kubernetes is, see [my other article](/posts/what-is-kubernetes/).
 
 These are some tools you might use to manage a cluster, both to install resources and to give the cluster certain capabilities.
 

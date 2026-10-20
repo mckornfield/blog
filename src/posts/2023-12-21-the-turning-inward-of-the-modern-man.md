@@ -78,7 +78,7 @@ Men need them because it’s what men are built for. To paraphrase a few million
 
 Being worthy doesn’t necessarily mean fulfilling a woman’s every desire (no man can fulfill a woman completely), but it means trying, damn it.
 
-I turned inward for a good portion of my life, and I wish I hadn’t. Having a woman I love in my life is not something I’d ever trade for pornography. Going for runs, using weights and [participating in Spartan races](https://mckornfield.medium.com/running-your-first-spartan-race-84eb7b2f283f) blows away any video game raids I’d done back in the day. These things take a lot more work, but they make me feel like a man instead of a boy.
+I turned inward for a good portion of my life, and I wish I hadn’t. Having a woman I love in my life is not something I’d ever trade for pornography. Going for runs, using weights and [participating in Spartan races](/posts/running-your-first-spartan-race/) blows away any video game raids I’d done back in the day. These things take a lot more work, but they make me feel like a man instead of a boy.
 
 They’re what I was made for, not what was made for me.
 

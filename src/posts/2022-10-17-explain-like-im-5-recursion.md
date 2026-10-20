@@ -18,7 +18,7 @@ Let’s begin!
 
 Recursion is “when a function calls itself.” There that’s all you need to know, just memorize that and your life will significantly improve.
 
-Just kidding, those are just words. I’ll assume you know what a function is (if not, [read here](https://mckornfield.medium.com/explain-like-im-5-python-functions-e71bbefdfbb)) and just continue from that point of understanding.
+Just kidding, those are just words. I’ll assume you know what a function is (if not, [read here](/posts/explain-like-im-5-python-functions/)) and just continue from that point of understanding.
 
 Functions are a ways to reuse code, and recursion is a way to reuse your function, but with slightly different input. The most common example thrown out is Fibonacci, a sequence of numbers that looks like
 

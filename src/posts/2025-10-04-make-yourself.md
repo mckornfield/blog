@@ -34,7 +34,7 @@ Yes… this little brick had *Make Yourself* on it. And I’d just move into the
 
 Then, as I was either running on the tiny track, running on a treadmill or starting a weight workout, “Nowhere Fast” would kick on. And that was pretty appropriate, as I was literally not moving anywhere fast.
 
-And while I was exercising and going to a good school, I was *lost* in many ways during my time at college, especially my sophomore year of college. I spent a lot of time [playing video games and turning inward](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c). I felt like this was a song about *me.* The chorus:
+And while I was exercising and going to a good school, I was *lost* in many ways during my time at college, especially my sophomore year of college. I spent a lot of time [playing video games and turning inward](/posts/the-turning-inward-of-the-modern-man/). I felt like this was a song about *me.* The chorus:
 
 > Will I ever get to where I’m going?  
 > If I do, will I know when I’m there?  
@@ -75,7 +75,7 @@ I was someone who knew what it took to work through problems in software (mostly
 
 ### 2022 — Off to the races
 
-In 2022 I did [my first Spartan race](https://mckornfield.medium.com/running-your-first-spartan-race-84eb7b2f283f), and I didn’t really *succeed* as much as *survive.* But as I did my burpees in place, or ran up and down some stairs carrying heavy s — t, I was going “Nowhere Fast”, and I did indeed “Make Myself”.
+In 2022 I did [my first Spartan race](/posts/running-your-first-spartan-race/), and I didn’t really *succeed* as much as *survive.* But as I did my burpees in place, or ran up and down some stairs carrying heavy s — t, I was going “Nowhere Fast”, and I did indeed “Make Myself”.
 
 Since then I’ve done a Trifecta one year (5K, 10K and 21K Spartan races), and run a half marathon and full marathon. Prepping for the races has been itself a part time job (lots of pull-ups and running… marathon training is *a lot* of running).
 

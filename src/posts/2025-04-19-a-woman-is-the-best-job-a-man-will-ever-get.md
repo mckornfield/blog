@@ -15,7 +15,7 @@ And the hardest one to get right
 Before I was in a serious relationship with a woman, I was not the best version of myself.
 
 - In crummy shape
-- Spent time [hiding in the virtual world](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c)
+- Spent time [hiding in the virtual world](/posts/the-turning-inward-of-the-modern-man/)
 - Depressed and self hating
 
 After being in a serious relationship, my life is much more complicated, but I am doing much better on all the above metrics. I think the reason is pretty simple: a woman is the greatest gift to a (heterosexual) man.

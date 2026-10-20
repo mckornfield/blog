@@ -15,7 +15,7 @@ I learned very little programming in school. I took 3 comp-sci style classes in 
 
 But I did end up learning at least in some capacity how to program, mostly on the job and reading some textbooks while struggling at work.
 
-[It was a stressful time with good tunes.](https://mckornfield.medium.com/paramore-virginia-running-it-consulting-d9342992f247)
+[It was a stressful time with good tunes.](/posts/paramore-virginia-running-it-consulting/)
 
 So to the question “should you get a comp-sci degree?” I have no clue, since I didn’t get one and the market has changed a ton since then.
 

@@ -12,7 +12,7 @@ Funnily enough, everywhere but in a book
 
 ### Wait, Why Should I? Isn’t Serverless the Best?
 
-[Myself](https://mckornfield.medium.com/why-choose-kubernetes-over-serverless-2aabd3ed56f4) and [others](https://medium.com/@nagarjoon.b/kubernetes-vs-serverless-how-do-you-choose-e066f2ad51ea) have written about why Serverless isn’t always the right option, but knowing about a technology is an important step in *not* selecting it.
+[Myself](/posts/why-choose-kubernetes-over-serverless/) and [others](https://medium.com/@nagarjoon.b/kubernetes-vs-serverless-how-do-you-choose-e066f2ad51ea) have written about why Serverless isn’t always the right option, but knowing about a technology is an important step in *not* selecting it.
 
 If you’re a “serverless or nothing” person you might have some major blindspots (for example, GPU based workloads don’t work in serverless 😬). Suffice it to say that Kubernetes has cemented itself as the main, non-serverless, container orchestration mechanism (sorry Docker Swarm and OpenShift), so it’ll be a good one to know!
 
@@ -35,8 +35,8 @@ Some decently rated articles about k8s:
 
 My own writing:
 
-- [What is Kubernetes?](https://mckornfield.medium.com/what-the-heck-is-this-kubernetes-thing-7d66f4aa0812)
-- [The Kubernetes Tools](https://mckornfield.medium.com/the-kubernetes-tools-39a730a7fceb)
+- [What is Kubernetes?](/posts/what-is-kubernetes/)
+- [The Kubernetes Tools](/posts/the-kubernetes-tools/)
 
 ### Udemy Courses
 

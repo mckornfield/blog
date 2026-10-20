@@ -70,7 +70,7 @@ The putting the weight behind something isn’t really the part that makes talen
 
 ### Free Princesses and Free Castles Are Worthless
 
-Lastly, I’ll take another shot at [Pornography and Video Games](https://medium.com/@mckornfield/the-turning-inward-of-the-modern-man-85839377507c), two industries that very deliberately remove the friction men would normally face in acquiring sexual pleasure and physical achievement.
+Lastly, I’ll take another shot at [Pornography and Video Games](/posts/the-turning-inward-of-the-modern-man/), two industries that very deliberately remove the friction men would normally face in acquiring sexual pleasure and physical achievement.
 
 If a good life embraces high friction, a bad life embraces low friction. Video games can be difficult, but there is variety in the sort of friction they can offer. I think the most positive video game experiences are ones that are shared, time bound, and present a challenge to the player (friction, friction and more friction).
 

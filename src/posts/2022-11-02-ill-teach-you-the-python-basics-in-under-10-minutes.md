@@ -39,7 +39,7 @@ print(add_two(3)) # <--- calling my own function
 print(requests.get("https://httpbin.org/get")) # <--- Calling a 3rd party library function
 ```
 
-If you want a longer explanation of functions, see [here](https://mckornfield.medium.com/explain-like-im-5-python-functions-e71bbefdfbb).
+If you want a longer explanation of functions, see [here](/posts/explain-like-im-5-python-functions/).
 
 ### What’s a list?
 

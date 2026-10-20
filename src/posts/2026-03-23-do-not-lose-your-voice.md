@@ -99,7 +99,7 @@ I don’t think you can get away from the fact that the more you use AI to do wo
 
 The worst offenders are people who think that creating a large volume of generic sounding content are somehow doing themselves a favor (“slop cannons”). I think you can use AI to do many many things, except that derivative, garbage content has always existed (tabloids?!), it’s just easier than ever to create.
 
-I’ve been using [AI recently to make music](https://mckornfield.medium.com/my-suno-journey-1f9e3a70d1b2) (gasp), but I think that the most important part I bring to the experience is the lyrics I write, which I intentionally just use a rhyming dictionary for.
+I’ve been using [AI recently to make music](/posts/my-suno-journey/) (gasp), but I think that the most important part I bring to the experience is the lyrics I write, which I intentionally just use a rhyming dictionary for.
 
 I don’t pretend like the rest of music aren’t art or representative of a voice, but I also am not a good musician, so I see AI as the supplement to my lack of skill.
 

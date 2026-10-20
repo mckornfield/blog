@@ -76,7 +76,7 @@ The `minReplicas` and `maxReplicas` represent the range that the HPA will stay i
 
 This is our other difficult file to get through, so strap in. By default it’s not enabled, so you could ignore it if you don’t want to communicate with your `service.yaml` , but for most web application usecases you’ll need some sort of Ingress. You might want to jump to the `service.yaml` file before reading through the rest of this, to see what the ingress is targeting.
 
-I wrote about Ingresses [in another article](https://medium.com/@mckornfield/ingress-talking-to-kubernetes-services-from-outside-the-cluster-333ba1f7c665) if you want more details.
+I wrote about Ingresses [in another article](/posts/ingress-talking-to-kubernetes-services-from-outside-the-clus/) if you want more details.
 
 OK, there are lots of interesting conditionals in the form of:
 

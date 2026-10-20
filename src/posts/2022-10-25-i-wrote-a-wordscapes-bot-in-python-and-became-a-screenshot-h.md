@@ -10,7 +10,7 @@ Hey, bots want to have fun too!
 
 *Photo by [Daniel Klein](https://unsplash.com/@danielklein?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
-I wrote [an article](https://mckornfield.medium.com/cheating-at-wordscapes-with-python-40b3ec3f453b) explaining how I built a simple anagram solver for [Wordscapes](https://apps.facebook.com/wordscapes). But then I got stupidly obsessed with how I could take my cheating to the next level. I didn’t want to swipe anymore! But what could I use to swipe the screen for my lazy behind?
+I wrote [an article](/posts/cheating-at-wordscapes-with-python/) explaining how I built a simple anagram solver for [Wordscapes](https://apps.facebook.com/wordscapes). But then I got stupidly obsessed with how I could take my cheating to the next level. I didn’t want to swipe anymore! But what could I use to swipe the screen for my lazy behind?
 
 Enter `pyautogui`
 

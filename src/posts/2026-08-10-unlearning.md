@@ -47,7 +47,7 @@ Wealth has been a central part of my life; my mom has always been a hard worker 
 
 As an adult, I’ve made a decent amount of money, worked hard and got lucky career-wise, but I find myself increasingly dissatisfied with the whole enterprise of “wealth creation” and “wealth management”.
 
-Wealth is also a big part of why [I don’t talk to my dad anymore](https://mckornfield.medium.com/a-letter-to-my-dad-be06a7f609d8). Not a lot of money in question, but enough to take our not great relationship and sink it to its grave.
+Wealth is also a big part of why [I don’t talk to my dad anymore](/posts/a-letter-to-my-dad/). Not a lot of money in question, but enough to take our not great relationship and sink it to its grave.
 
 *Taking* wealth is one way to achieve it. It’s the scarcity mindset behind unaffordable housing in zoned neighborhoods, actual theft, and the casino economy we’re living in.
 

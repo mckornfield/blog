@@ -84,7 +84,7 @@ I am not a sports guy. I played video games for a lot of my childhood and early 
 
 But in adulthood I found myself growing distant from them, as I had a real relationship with a real woman (not a glass bottle!) and put more of my time and effort into improving my physical and financial situation.
 
-I could write a [whole scree on video games](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c) and their own form of dopamine hijack, but I think their ultimate problem is they take away the need to get out of the f — king house.
+I could write a [whole scree on video games](/posts/the-turning-inward-of-the-modern-man/) and their own form of dopamine hijack, but I think their ultimate problem is they take away the need to get out of the f — king house.
 
 You can play online with friends, or play a single player game by yourself, and while there ARE ways to socialize playing online, they are not ways that will lead to a successful dating life ([unless you meet your wife playing Everquest](https://x.com/rolanberrypie/status/2033288925754937824)) .
 

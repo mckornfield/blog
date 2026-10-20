@@ -12,7 +12,7 @@ And why you should probably turn it off too
 
 I experimented with using GitHub Copilot for a bit to (help) write my code; it supercharged my productivity, but something felt off about it. If you don’t know what GitHub Copilot is, it’s a AI tool produced by GitHub that can write/suggest code for you as you’re writing it.
 
-I was testing out an interview question for work ([which Copilot could solve without issue](https://medium.com/@mckornfield/does-github-copilot-mean-we-can-stop-doing-live-coding-interviews-aca3424352be)) so I decided to turn it off… And I haven’t turned it back on.
+I was testing out an interview question for work ([which Copilot could solve without issue](/posts/does-github-copilot-mean-we-can-stop-doing-live-coding-inter/)) so I decided to turn it off… And I haven’t turned it back on.
 
 I feel like, in some sense, I’m less productive with it off, but I also feel like moving faster while not knowing what’s happening isn’t all that helpful.
 

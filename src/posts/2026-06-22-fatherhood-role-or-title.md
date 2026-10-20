@@ -51,7 +51,7 @@ A dad is a role.
 
 I had my biological dad (I call him “dad”, despite the way this article is written haha) and my step dad, who I call “Joe” (because that’s his name). Joe did many things differently than my dad did, as they are very different people, but Joe was present in my life as a kid, in a way that he didn’t have to be as my step dad.
 
-Joe filled the “dad” role for me, whereas my own dad slipped farther and farther into the “father” role as I learned more about the way [he conducted himself](https://mckornfield.medium.com/a-letter-to-my-dad-be06a7f609d8). I have a ton in common with my dad, but I like to think that I’ve (I am really just a bald version of him)
+Joe filled the “dad” role for me, whereas my own dad slipped farther and farther into the “father” role as I learned more about the way [he conducted himself](/posts/a-letter-to-my-dad/). I have a ton in common with my dad, but I like to think that I’ve (I am really just a bald version of him)
 
 This isn’t to shame my dad; he’s had to deal with a lot of things (some of his own design), but to rather praise my step dad.
 

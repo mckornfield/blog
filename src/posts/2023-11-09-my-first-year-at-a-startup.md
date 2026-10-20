@@ -52,7 +52,7 @@ When I joined my last job, we had plenty of customers. We had people running sup
 
 And those are good things, because they give you cash to pay your employees and hire new ones.
 
-But those customers also come with needs and wants that keep you supporting software you might prefer to dump in the recycle bin. (Can’t we just `git rm -f` this?)You become a [victim of your own success](https://mckornfield.medium.com/victims-of-our-own-success-dd3729dd599f), and start being weighed down by tons of tech debt.
+But those customers also come with needs and wants that keep you supporting software you might prefer to dump in the recycle bin. (Can’t we just `git rm -f` this?)You become a [victim of your own success](/posts/victims-of-our-own-success/), and start being weighed down by tons of tech debt.
 
 Startups don’t have tons of high paying customers. How can they, when they didn’t exist 5 years ago? It takes time to build a product, a sales team, a vision that someone wants to pay for. This means a lot of what startups talk about are “cash” and “runway,” i.e. how long before we have to either find more money or fire everyone. Kinda scary but, it’s how a business works when it’s not profitable.
 

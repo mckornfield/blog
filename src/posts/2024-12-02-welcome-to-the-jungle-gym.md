@@ -90,6 +90,6 @@ This move sideways also allowed me to invest more time in my writing and get a m
 
 That’s my journey; in another article, I’ll go over the takeaways from moving around the jungle gym, but for me, I learned much more by climbing around than I did by climbing up.
 
-[Jungle Gym Takeaways](https://mckornfield.medium.com/jungle-gym-takeaways-77271e8a5d26)
+[Jungle Gym Takeaways](/posts/jungle-gym-takeaways/)
 
 Thanks for reading!

@@ -29,7 +29,7 @@ The last is outside of Confucius’s relationships, but I think it will make sen
 
 When a man decides to be in a long term committed relationship with a woman, ideally he is explicitly agreeing to being a father. This relationship is the foundation of [trust](https://time.com/6317692/u-s-economy-two-parent-families/) and [success](https://www.npr.org/2023/10/22/1207322878/single-parent-married-good-for-children-inequality) in a child’s life.
 
-I come from a divorced family. And my dad is a narcissist so I don’t blame my mom for it at all. But my mom pretty quickly remarried, and my step dad, while imperfect, took on the burden of [my mentally ill brother](https://mckornfield.medium.com/my-brother-is-a-silent-mirror-of-me-72f37a16ba8f).
+I come from a divorced family. And my dad is a narcissist so I don’t blame my mom for it at all. But my mom pretty quickly remarried, and my step dad, while imperfect, took on the burden of [my mentally ill brother](/posts/my-brother-is-a-silent-mirror-of-me/).
 
 I’m married to a woman whose parents have been married for 50 years, and while they’ve had their hardships, they’ve forged a life together. And they’ve managed to do a lot to move themselves up economically.
 
@@ -79,7 +79,7 @@ If men aren’t on the side of women (i.e., they don’t want to support them, n
 
 Men who treat women like this really just see them as one thing: meat.
 
-Compare a way that men like the rapists mentioned above, who use women’s bodies for their own ends, to the way that a man eats a piece of meat. The same parts of the brain are working ([the lizard parts](https://mckornfield.medium.com/our-inner-lizard-keeps-us-instantly-unsatisfied-a86eb24491dd)) when we devour a piece of juicy meat or eyeball a woman.
+Compare a way that men like the rapists mentioned above, who use women’s bodies for their own ends, to the way that a man eats a piece of meat. The same parts of the brain are working ([the lizard parts](/posts/our-inner-lizard-keeps-us-instantly-unsatisfied/)) when we devour a piece of juicy meat or eyeball a woman.
 
 These are the parts of ourselves pushed by an insatiable hunger, one that if fed only makes you hungrier, and only creates more victims.
 
@@ -91,7 +91,7 @@ The archetype of a Boy to Meat is a **Predator**. All “men” who fit into thi
 
 I do believe most men start this way, viewing women from a flat lens of “can I have one.” At least as a teenage boy I had strong feelings towards my peers but no real understanding of how to act on them.
 
-Most of what I figured out was by doing things wrong for a long time, like [turning inward and only satisfying my own needs](https://mckornfield.medium.com/the-turning-inward-of-the-modern-man-85839377507c). But that ultimately just made me more unhappy and alone.
+Most of what I figured out was by doing things wrong for a long time, like [turning inward and only satisfying my own needs](/posts/the-turning-inward-of-the-modern-man/). But that ultimately just made me more unhappy and alone.
 
 Those desires need to be leashed; brought out when appropriate and yoked to the much more difficult task of being what a woman needs me to be, not what I want from them.
 
@@ -107,4 +107,4 @@ If you see women only as meat, you need to shape up or ship out.
 
 A man invests in the women around them by being their **protector, hero and comrade**, a boy consumes them as their **predator**.
 
-Women are the end of what it means to be a man, [not their means](https://mckornfield.medium.com/the-end-not-the-means-798bbbc9f252).
+Women are the end of what it means to be a man, [not their means](/posts/the-end-not-the-means/).

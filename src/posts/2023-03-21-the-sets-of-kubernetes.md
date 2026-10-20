@@ -29,7 +29,7 @@ The breakdown is fairly simple:
 
 Daemonsets -> Run one Pod on each Node in the cluster, or as many nodes as deemed necessary by taints/tolerations etc.
 
-Deployments/ReplicaSets -> Run a specified number of expendable Pods, though the amount can always be scaled with something like an [HPA](https://medium.com/@mckornfield/working-with-hpas-in-kubernetes-ced39263b596).
+Deployments/ReplicaSets -> Run a specified number of expendable Pods, though the amount can always be scaled with something like an [HPA](/posts/working-with-hpas-in-kubernetes/).
 
 Also the Deployment is [the recommended level of abstraction](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#:~:text=A%20ReplicaSet%20ensures%20that%20a,lot%20of%20other%20useful%20features.) above a ReplicaSet, but a Deployment is 1 to 1 with a ReplicaSet
 

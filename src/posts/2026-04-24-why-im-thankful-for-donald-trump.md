@@ -57,7 +57,7 @@ Well, it’s because they’re terrible.
 
 And I don’t mean terrible in the scary sense, I mean incapable of mustering up support or having an agenda that actually makes a meaningful difference in people’s lives.
 
-California is a state that has been run by democrats for years, but it is essentially [the land of the dead](https://mckornfield.medium.com/the-mummification-of-california-4df5bf47b561?postPublishedType=repub). New York (where I was born) is no better.
+California is a state that has been run by democrats for years, but it is essentially [the land of the dead](/posts/the-mummification-of-california/). New York (where I was born) is no better.
 
 I hope Mamdani can make a difference in the City, but I just don’t see it. America is capitalist, and raising taxes just makes capitalists what they do best — avoid paying taxes (probably by moving? or hiding money elsewhere?)
 

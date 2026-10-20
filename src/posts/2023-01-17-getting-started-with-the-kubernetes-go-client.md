@@ -12,7 +12,7 @@ I mean… Kubernetes is written in Go right? So this is what you should use?
 
 ### What’s a Kubernetes Client (again)?
 
-I’ll do the short explanation here since I’ve explained it in a bit more of a long form for the [Python client](https://medium.com/@mckornfield/getting-started-with-the-kubernetes-python-client-ac48199537a9). Any Kubernetes client is a way to communicate with a running Kubernetes cluster in order to do things like get the state of Pods and other resources, or create/destroy these different types of resources.
+I’ll do the short explanation here since I’ve explained it in a bit more of a long form for the [Python client](/posts/getting-started-with-the-kubernetes-python-client/). Any Kubernetes client is a way to communicate with a running Kubernetes cluster in order to do things like get the state of Pods and other resources, or create/destroy these different types of resources.
 
 Go(lang) is one of Google’s and many other company’s backend server language of choice (makes sense for [Google since they came up with it](https://go.dev/solutions/google/)). It’s strongly typed, but not Object Oriented (take that Java!), so you’re using `functions` and `structs` instead of classes.
 
