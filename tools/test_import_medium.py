@@ -81,3 +81,103 @@ def test_front_matter_is_valid_yaml_for_awkward_titles():
 def test_front_matter_omits_empty_subtitle():
     fm = front_matter(Post("T", "", "2024-12-02", "https://medium.com/x", ""))
     assert "subtitle" not in fm
+
+
+from import_medium import image_urls, to_markdown
+
+
+def md(body):
+    return to_markdown(body).markdown
+
+
+def test_drops_title_and_subtitle_elements():
+    html = ('<h3 class="graf graf--h3 graf--title">T</h3>'
+            '<h4 class="graf graf--h4 graf--subtitle">S</h4><p>Body</p>')
+    assert md(html) == "Body\n"
+
+
+def test_drops_first_divider_keeps_later_ones_as_rules():
+    html = ('<div class="section-divider"><hr class="section-divider"></div><p>One</p>'
+            '<div class="section-divider"><hr class="section-divider"></div><p>Two</p>')
+    out = md(html)
+    assert out.startswith("One")
+    assert "One\n\n---\n\nTwo" in out
+
+
+def test_removes_scripts():
+    assert "alert" not in md("<p>Hi</p><script>alert(1)</script>")
+
+
+def test_figure_becomes_image_and_italic_caption():
+    html = ('<figure><div><img src="https://cdn-images-1.medium.com/max/800/0*abc" data-width="1"></div>'
+            '<figcaption class="imageCaption">Photo by <a href="https://x.com">X</a></figcaption></figure>')
+    out = md(html)
+    assert "![Photo by X](https://cdn-images-1.medium.com/max/800/0*abc)" in out
+    assert "*Photo by [X](https://x.com)*" in out
+    assert image_urls(out) == ["https://cdn-images-1.medium.com/max/800/0*abc"]
+
+
+def test_figure_without_caption():
+    out = md('<figure><img src="https://cdn-images-1.medium.com/max/800/1*z"></figure>')
+    assert "![](https://cdn-images-1.medium.com/max/800/1*z)" in out
+
+
+def test_image_urls_unique_and_ordered():
+    text = "![a](http://h/1) ![b](http://h/2) ![c](http://h/1)"
+    assert image_urls(text) == ["http://h/1", "http://h/2"]
+
+
+def test_code_block_is_fenced_and_untouched():
+    html = ('<p>Run:</p><pre data-code-block-lang="yaml" class="graf graf--pre">'
+            '<span class="pre--content">a: {{ .Values.x }}<br><br>b: <span class="hljs-string">1</span></span></pre>')
+    out = md(html)
+    assert "```yaml\na: {{ .Values.x }}\n\nb: 1\n```" in out
+
+
+def test_code_block_containing_backticks_uses_tilde_fence():
+    html = '<pre><span class="pre--content">echo ```hi```</span></pre>'
+    assert "~~~~\necho ```hi```\n~~~~" in md(html)
+
+
+def test_multiple_code_blocks_keep_their_own_content():
+    pres = "".join(f'<pre data-code-block-lang="bash"><span>cmd{i}</span></pre><p>x</p>' for i in range(12))
+    out = md(pres)
+    for i in range(12):
+        assert f"```bash\ncmd{i}\n```" in out
+
+
+def test_headings_shift_under_page_title():
+    out = md("<h2>A</h2><h3>B</h3><h4>C</h4>")
+    assert "## A" in out and "## B" in out and "### C" in out
+    assert "\n# " not in "\n" + out
+
+
+def test_mixtape_embed_becomes_link():
+    html = ('<div class="graf graf--mixtapeEmbed"><a class="markup--mixtapeEmbed-anchor" href="https://example.com/p">'
+            '<strong class="markup--mixtapeEmbed-strong">Cool Post</strong><em class="markup--mixtapeEmbed-em">desc</em></a>'
+            '<a href="https://example.com/p" class="js-mixtapeImage" style="background-image: url(x);"></a></div>')
+    conv = to_markdown(html)
+    assert "[Cool Post](https://example.com/p)" in conv.markdown
+    assert conv.embeds == 1
+
+
+def test_pullquote_becomes_blockquote():
+    assert "> Wise words" in md('<blockquote class="graf graf--pullquote">Wise words</blockquote>')
+    assert "> Said" in md('<p class="graf graf--pullquote">Said</p>')
+
+
+def test_lists_and_inline_formatting():
+    out = md("<ul><li>one <strong>b</strong></li><li>two</li></ul>")
+    assert "- one **b**" in out and "- two" in out
+
+
+def test_literal_less_than_in_prose_is_escaped():
+    out = md("<p>if a &lt; b then</p>")
+    assert "a &lt; b" in out
+    assert "a < b" not in out
+
+
+def test_unconverted_tags_produce_warnings():
+    conv = to_markdown("<table><tr><td>x</td></tr></table><iframe src='y'></iframe>")
+    assert "unconverted <table>" in conv.warnings
+    assert "unconverted <iframe>" in conv.warnings
