@@ -6,13 +6,6 @@
   --link: #1a5fb4;
   --rule: #e2e2e0;
   --code-bg: #f1f1ef;
-  --pagefind-ui-scale: 0.9;
-  --pagefind-ui-primary: #1a5fb4;
-  --pagefind-ui-text: #1e1e1e;
-  --pagefind-ui-background: #fdfdfc;
-  --pagefind-ui-border: #e2e2e0;
-  --pagefind-ui-tag: #f1f1ef;
-  --pagefind-ui-font: Georgia, "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -56,3 +49,19 @@ h1 { line-height: 1.25; margin-bottom: 0.25rem; }
 .posts li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.25rem 0; }
 .posts time { white-space: nowrap; flex-shrink: 0; }
 @media (max-width: 30rem) { .posts li { flex-direction: column; gap: 0; } }
+
+/* Pagefind sets its variables on .pagefind-ui itself, so :root values never reach it.
+   The id selector outranks its stylesheet regardless of load order. */
+#search .pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: var(--link);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--rule);
+  --pagefind-ui-tag: var(--code-bg);
+  --pagefind-ui-font: Georgia, "Times New Roman", serif;
+}
+#search .pagefind-ui__result-excerpt { color: var(--muted); }
+#search .pagefind-ui__search-input { color: var(--text); background: var(--bg); }
+#search .pagefind-ui__search-input::placeholder { color: var(--muted); opacity: 1; }
+#search mark { background: #ffe066; color: #1e1e1e; }
